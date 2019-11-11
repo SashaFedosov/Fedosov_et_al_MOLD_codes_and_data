@@ -1,0 +1,454 @@
+************** Gynacantha_villosa **************
+Species / sequences analyzed: 1 / 1
+Number of retrieved diagnostic combinations: 429 positions involved: 94
+1 sDNC_score (100): 42
+2 sDNC_score (100): 100
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+COI sDNC: [110: 'G', 349: 'C', 493: 'C', 520: 'G'] 
+
+************** Anax_ephippiger **************
+Species / sequences analyzed: 1 / 10
+Number of retrieved diagnostic combinations: 1319 positions involved: 100
+2 sDNC_score (100): 77
+3 sDNC_score (100): 86
+4 sDNC_score (100): 99
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [40: 'T', 142: 'G', 325: 'C', 370: 'T', 469: 'T', 481: 'C'] 
+
+************** Orthetrum_julia_falsum **************
+Species / sequences analyzed: 1 / 10
+Number of retrieved diagnostic combinations: 986 positions involved: 100
+2 sDNC_score (100): 72
+3 sDNC_score (100): 83
+4 sDNC_score (100): 98
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+7 sDNC_score (100): 100
+COI sDNC: [13: 'G', 124: 'T', 139: 'T', 331: 'G', 425: 'C', 505: 'G', 514: 'C'] 
+
+************** Trithemis_annulata **************
+Species / sequences analyzed: 1 / 3
+Number of retrieved diagnostic combinations: 431 positions involved: 97
+1 sDNC_score (100): 48
+2 sDNC_score (100): 98
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [4: 'C', 40: 'T', 172: 'G', 376: 'C', 463: 'C'] 
+
+************** Trithemis_arteriosa **************
+Species / sequences analyzed: 1 / 1
+Number of retrieved diagnostic combinations: 454 positions involved: 98
+1 sDNC_score (100): 55
+2 sDNC_score (100): 100
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+COI sDNC: [70: 'G', 163: 'G', 376: 'G', 520: 'G'] 
+
+************** Crocothemis_erythraea **************
+Species / sequences analyzed: 1 / 7
+Number of retrieved diagnostic combinations: 355 positions involved: 95
+1 sDNC_score (100): 45
+2 sDNC_score (100): 92
+3 sDNC_score (100): 99
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [85: 'C', 277: 'C', 310: 'G', 427: 'G', 502: 'G'] 
+
+************** Trithemis_donaldsoni **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 528 positions involved: 100
+1 sDNC_score (100): 58
+2 sDNC_score (100): 89
+3 sDNC_score (100): 99
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [7: 'G', 31: 'C', 301: 'C', 364: 'G', 400: 'C'] 
+
+************** Nesciothemis_farinosum **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 442 positions involved: 95
+1 sDNC_score (100): 41
+2 sDNC_score (100): 93
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [7: 'T', 16: 'C', 205: 'C', 319: 'G', 469: 'C'] 
+
+************** Orthetrum_trinacria **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 280 positions involved: 96
+1 sDNC_score (100): 51
+2 sDNC_score (100): 99
+3 sDNC_score (100): 100
+4 sDNC_score (100): 99
+COI sDNC: [61: 'G', 217: 'C', 412: 'G', 418: 'C'] 
+
+************** Brachytron_pratense **************
+Species / sequences analyzed: 1 / 2
+Number of retrieved diagnostic combinations: 1065 positions involved: 100
+2 sDNC_score (100): 88
+3 sDNC_score (100): 92
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [109: 'C', 376: 'C', 394: 'T', 481: 'T', 490: 'T', 526: 'T'] 
+
+************** Ischnura_senegalensis **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 647 positions involved: 100
+2 sDNC_score (100): 78
+3 sDNC_score (100): 96
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [34: 'G', 418: 'G', 421: 'G', 424: 'T', 448: 'C', 517: 'G'] 
+
+************** Coryphagrion_grandis **************
+Species / sequences analyzed: 1 / 14
+Number of retrieved diagnostic combinations: 338 positions involved: 91
+1 sDNC_score (100): 38
+2 sDNC_score (100): 91
+3 sDNC_score (100): 97
+4 sDNC_score (100): 99
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [28: 'T', 232: 'T', 253: 'T', 265: 'C', 268: 'C', 526: 'G'] 
+
+************** Trithemis_stictica **************
+Species / sequences analyzed: 1 / 8
+Number of retrieved diagnostic combinations: 1307 positions involved: 100
+2 sDNC_score (100): 0
+3 sDNC_score (100): 85
+4 sDNC_score (100): 97
+5 sDNC_score (100): 99
+6 sDNC_score (100): 100
+7 sDNC_score (100): 100
+COI sDNC: [97: 'C', 169: 'G', 175: 'T', 220: 'C', 304: 'C', 355: 'T', 418: 'G'] 
+
+************** Platycypha_auripes **************
+Species / sequences analyzed: 1 / 2
+Number of retrieved diagnostic combinations: 585 positions involved: 96
+1 sDNC_score (100): 52
+2 sDNC_score (100): 96
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [34: 'C', 262: 'C', 291: 'G', 292: 'G', 466: 'C'] 
+
+************** Trithemis_grouti **************
+Species / sequences analyzed: 1 / 2
+Number of retrieved diagnostic combinations: 1084 positions involved: 100
+2 sDNC_score (100): 72
+3 sDNC_score (100): 98
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [214: 'A', 235: 'T', 301: 'C', 434: 'T', 439: 'C', 487: 'A'] 
+
+************** Trithemis_palustris **************
+Species / sequences analyzed: 1 / 4
+Number of retrieved diagnostic combinations: 820 positions involved: 100
+2 sDNC_score (100): 0
+3 sDNC_score (100): 87
+4 sDNC_score (100): 100
+5 sDNC_score (100): 99
+6 sDNC_score (100): 100
+COI sDNC: [313: 'T', 316: 'G', 340: 'C', 436: 'T', 445: 'C', 538: 'C'] 
+
+************** Pseudagrion_bicoerulans **************
+Species / sequences analyzed: 1 / 15
+Number of retrieved diagnostic combinations: 935 positions involved: 100
+2 sDNC_score (100): 74
+3 sDNC_score (100): 97
+4 sDNC_score (100): 96
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+7 sDNC_score (100): 100
+COI sDNC: [43: 'C', 58: 'C', 115: 'G', 328: 'T', 394: 'C', 458: 'A', 472: 'G'] 
+
+************** Anax_imperator **************
+Species / sequences analyzed: 1 / 11
+Number of retrieved diagnostic combinations: 1216 positions involved: 100
+2 sDNC_score (100): 65
+3 sDNC_score (100): 91
+4 sDNC_score (100): 94
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+7 sDNC_score (100): 100
+COI sDNC: [142: 'G', 217: 'T', 373: 'T', 440: 'C', 469: 'C', 490: 'T', 517: 'G'] 
+
+************** Pseudagrion_kersteni **************
+Species / sequences analyzed: 1 / 11
+Number of retrieved diagnostic combinations: 420 positions involved: 98
+1 sDNC_score (100): 50
+2 sDNC_score (100): 83
+3 sDNC_score (100): 96
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [100: 'G', 157: 'T', 223: 'G', 232: 'T', 235: 'C', 403: 'C'] 
+
+************** Crocothemis_sanguinolenta **************
+Species / sequences analyzed: 1 / 6
+Number of retrieved diagnostic combinations: 369 positions involved: 98
+1 sDNC_score (100): 53
+2 sDNC_score (100): 96
+3 sDNC_score (100): 98
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [34: 'T', 100: 'G', 151: 'G', 296: 'C', 358: 'T', 427: 'G'] 
+
+************** Teinobasis_alluaudi **************
+Species / sequences analyzed: 1 / 6
+Number of retrieved diagnostic combinations: 732 positions involved: 99
+1 sDNC_score (100): 49
+2 sDNC_score (100): 97
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [7: 'C', 34: 'G', 343: 'G', 448: 'G', 457: 'G'] 
+
+************** Platycypha_caligata **************
+Species / sequences analyzed: 1 / 6
+Number of retrieved diagnostic combinations: 430 positions involved: 81
+1 sDNC_score (100): 42
+2 sDNC_score (100): 93
+3 sDNC_score (100): 99
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [40: 'T', 214: 'G', 233: 'T', 397: 'C', 439: 'G'] 
+
+************** Leptagrion_elongatum **************
+Species / sequences analyzed: 1 / 1
+Number of retrieved diagnostic combinations: 715 positions involved: 100
+1 sDNC_score (100): 49
+2 sDNC_score (100): 99
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+COI sDNC: [140: 'A', 157: 'C', 181: 'C', 358: 'T'] 
+
+************** Mecistogaster_martinezi **************
+Species / sequences analyzed: 1 / 2
+Number of retrieved diagnostic combinations: 678 positions involved: 99
+1 sDNC_score (100): 53
+2 sDNC_score (100): 98
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [220: 'G', 313: 'C', 340: 'G', 493: 'C', 541: 'C'] 
+
+************** Pseudagrion_NA **************
+Species / sequences analyzed: 1 / 10
+Number of retrieved diagnostic combinations: 451 positions involved: 96
+1 sDNC_score (100): 40
+2 sDNC_score (100): 91
+3 sDNC_score (100): 95
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [16: 'G', 19: 'C', 217: 'C', 331: 'C', 445: 'C', 508: 'C'] 
+
+************** Aeshna_cyanea **************
+Species / sequences analyzed: 1 / 4
+Number of retrieved diagnostic combinations: 668 positions involved: 100
+1 sDNC_score (100): 53
+2 sDNC_score (100): 90
+3 sDNC_score (100): 95
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [73: 'G', 274: 'C', 313: 'T', 340: 'C', 430: 'C', 469: 'C'] 
+
+************** Trithemis_nuptialis **************
+Species / sequences analyzed: 1 / 2
+Number of retrieved diagnostic combinations: 419 positions involved: 98
+2 sDNC_score (100): 92
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [25: 'C', 142: 'G', 244: 'G', 277: 'C', 310: 'C'] 
+
+************** Aeshna_mixta **************
+Species / sequences analyzed: 1 / 2
+Number of retrieved diagnostic combinations: 947 positions involved: 100
+2 sDNC_score (100): 96
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [148: 'T', 154: 'G', 289: 'G', 373: 'G', 394: 'C'] 
+
+************** Orthetrum_coerulescens **************
+Species / sequences analyzed: 1 / 9
+Number of retrieved diagnostic combinations: 578 positions involved: 100
+1 sDNC_score (100): 37
+2 sDNC_score (100): 92
+3 sDNC_score (100): 88
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [25: 'C', 139: 'C', 181: 'G', 235: 'C', 370: 'G', 439: 'A'] 
+
+************** Chlorocnemis_abbotti **************
+Species / sequences analyzed: 1 / 8
+Number of retrieved diagnostic combinations: 717 positions involved: 100
+1 sDNC_score (100): 50
+2 sDNC_score (100): 93
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [49: 'G', 239: 'T', 240: 'C', 426: 'G', 430: 'A'] 
+
+************** Mecistogaster_asticta **************
+Species / sequences analyzed: 1 / 1
+Number of retrieved diagnostic combinations: 1011 positions involved: 100
+1 sDNC_score (100): 47
+2 sDNC_score (100): 100
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+COI sDNC: [172: 'C', 433: 'G', 436: 'G', 508: 'G'] 
+
+************** Ischnura_graellsii **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 524 positions involved: 98
+1 sDNC_score (100): 51
+2 sDNC_score (100): 89
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [19: 'G', 250: 'G', 331: 'G', 424: 'C', 466: 'C'] 
+
+************** Anaciaeschna_triangulifera **************
+Species / sequences analyzed: 1 / 1
+Number of retrieved diagnostic combinations: 1202 positions involved: 100
+2 sDNC_score (100): 93
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [283: 'C', 292: 'C', 370: 'T', 415: 'C', 448: 'T'] 
+
+************** Trithemis_kirbyi **************
+Species / sequences analyzed: 1 / 3
+Number of retrieved diagnostic combinations: 606 positions involved: 99
+1 sDNC_score (100): 52
+2 sDNC_score (100): 85
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [61: 'C', 368: 'C', 415: 'T', 434: 'T', 532: 'T'] 
+
+************** Trithemis_furva **************
+Species / sequences analyzed: 1 / 3
+Number of retrieved diagnostic combinations: 864 positions involved: 100
+1 sDNC_score (100): 45
+2 sDNC_score (100): 95
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [16: 'G', 217: 'T', 265: 'G', 313: 'T', 481: 'G'] 
+
+************** Pseudagrion_massaicum **************
+Species / sequences analyzed: 1 / 13
+Number of retrieved diagnostic combinations: 653 positions involved: 100
+1 sDNC_score (100): 41
+2 sDNC_score (100): 89
+3 sDNC_score (100): 97
+4 sDNC_score (100): 99
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [7: 'G', 19: 'G', 37: 'C', 151: 'G', 484: 'G', 505: 'G'] 
+
+************** Enallagma_cyathigerum **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 460 positions involved: 97
+1 sDNC_score (100): 41
+2 sDNC_score (100): 91
+3 sDNC_score (100): 94
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [193: 'G', 262: 'G', 358: 'C', 423: 'G', 424: 'T', 445: 'C'] 
+
+************** Trithemis_hecate **************
+Species / sequences analyzed: 1 / 1
+Number of retrieved diagnostic combinations: 362 positions involved: 93
+1 sDNC_score (100): 45
+2 sDNC_score (100): 80
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [61: 'T', 370: 'G', 475: 'T', 478: 'G', 487: 'G'] 
+
+************** Aeshna_rileyi **************
+Species / sequences analyzed: 1 / 2
+Number of retrieved diagnostic combinations: 962 positions involved: 100
+1 sDNC_score (100): 49
+2 sDNC_score (100): 97
+3 sDNC_score (100): 96
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [148: 'C', 235: 'T', 253: 'T', 268: 'C', 352: 'C', 497: 'T'] 
+
+************** Aeshna_grandis **************
+Species / sequences analyzed: 1 / 1
+Number of retrieved diagnostic combinations: 566 positions involved: 100
+1 sDNC_score (100): 50
+2 sDNC_score (100): 100
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+COI sDNC: [184: 'G', 442: 'T', 448: 'G', 514: 'C'] 
+
+************** Orthetrum_brachiale **************
+Species / sequences analyzed: 1 / 3
+Number of retrieved diagnostic combinations: 1175 positions involved: 100
+2 sDNC_score (100): 85
+3 sDNC_score (100): 96
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [121: 'G', 139: 'T', 142: 'G', 247: 'G', 421: 'G', 454: 'C'] 
+
+************** Ceriagrion_tenellum **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 538 positions involved: 97
+1 sDNC_score (100): 47
+2 sDNC_score (100): 92
+3 sDNC_score (100): 99
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [31: 'C', 100: 'G', 157: 'T', 292: 'C', 442: 'G'] 
+
+************** Orthetrum_chrysostigma **************
+Species / sequences analyzed: 1 / 4
+Number of retrieved diagnostic combinations: 633 positions involved: 100
+1 sDNC_score (100): 47
+2 sDNC_score (100): 94
+3 sDNC_score (100): 99
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [242: 'C', 277: 'G', 364: 'C', 397: 'G', 478: 'G'] 
+
+************** Anax_speratus **************
+Species / sequences analyzed: 1 / 6
+Number of retrieved diagnostic combinations: 1172 positions involved: 100
+2 sDNC_score (100): 85
+3 sDNC_score (100): 79
+4 sDNC_score (100): 99
+5 sDNC_score (100): 100
+6 sDNC_score (100): 100
+COI sDNC: [145: 'C', 178: 'T', 319: 'C', 331: 'A', 385: 'C', 496: 'G'] 
+
+************** Trithemis_morrisoni **************
+Species / sequences analyzed: 1 / 5
+Number of retrieved diagnostic combinations: 619 positions involved: 100
+1 sDNC_score (100): 38
+2 sDNC_score (100): 91
+3 sDNC_score (100): 100
+4 sDNC_score (100): 100
+5 sDNC_score (100): 100
+COI sDNC: [16: 'G', 208: 'C', 259: 'G', 268: 'G', 274: 'C'] 
+

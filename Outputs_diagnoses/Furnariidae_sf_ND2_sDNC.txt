@@ -1,0 +1,37 @@
+************** Sclerurinae **************
+Species / sequences analyzed: 17 / 17
+pDNCs retrieved : 335 positions involved: 64 Independent pDNCs: 5
+Shortest retrieved diagnostic combinations: [236]
+1 sDNC_score (100): 79
+2 sDNC_score (100): 93
+3 sDNC_score (100): 99
+4 sDNC_score (100): 100
+sDNC: [26: 'T', 236: 'G', 452: 'C', 983: 'C'] 
+
+************** Furnariinae **************
+Species / sequences analyzed: 210 / 226
+pDNCs retrieved : 17 positions involved: 10 Independent pDNCs: 0
+Shortest retrieved diagnostic combinations: [220, 236, 300, 866]
+4 sDNC_score (100): 0
+5 sDNC_score (100): 0
+6 sDNC_score (100): 22
+7 sDNC_score (100): 43
+8 sDNC_score (100): 47
+9 sDNC_score (100): 44
+10 sDNC_score (100): 57
+No reliable diagnosis was retrieved
+
+************** Dendrocollaptinae **************
+Species / sequences analyzed: 48 / 50
+pDNCs retrieved : 48 positions involved: 34 Independent pDNCs: 2
+Shortest retrieved diagnostic combinations: [464, 828]
+2 sDNC_score (100): 69
+3 sDNC_score (100): 75
+4 sDNC_score (100): 76
+5 sDNC_score (100): 78
+6 sDNC_score (100): 84
+7 sDNC_score (100): 90
+8 sDNC_score (100): 86
+9 sDNC_score (100): 95
+sDNC: [75: 'C', 348: 'A', 375: 'A', 393: 'A', 464: 'C', 522: 'A', 532: 'A', 804: 'A', 828: 'A'] 
+

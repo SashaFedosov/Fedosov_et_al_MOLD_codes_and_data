@@ -1,0 +1,28 @@
+*************** Aeshnidae ***************
+Species / sequences analyzed: 10 / 39
+Independent combinations: 9
+[236: 'G']
+[182: 'T', 205: 'A']
+[64: 'T', 395: 'A']
+[62: 'A', 396: 'C']
+[67: 'A', 85: 'T', 535: 'T']
+[230: 'T', 425: 'A', 532: 'A']
+[238: 'A', 418: 'A', 508: 'A']
+[14: 'T', 203: 'T', 242: 'A']
+[61: 'A', 70: 'A', 265: 'A', 315: 'C']
+Key positions: 0 []
+Lcount: 1pos: 1 2pos: 6 3pos: 245 4pos: 180 5pos: 21
+Frequency of first codon position: 0.392244119517
+Frequency of second codon position: 0.0534011443102
+Frequency of third codon position: 0.554354736173
+*************** Libellulidae ***************
+Species / sequences analyzed: 19 / 84
+Independent combinations: 3
+[315: 'C', 396: 'T']
+[64: 'T', 152: 'T', 236: 'A']
+[234: 'C', 395: 'G', 484: 'A']
+Key positions: 0 []
+Lcount: 1pos: 0 2pos: 2 3pos: 27 4pos: 216 5pos: 63
+Frequency of first codon position: 0.277691107644
+Frequency of second codon position: 0.198907956318
+Frequency of third codon position: 0.523400936037

@@ -1,0 +1,43 @@
+*************** Cylinder ***************
+Species / sequences analyzed: 7 / 44
+Independent combinations: 2
+[22: 'T', 265: 'T', 301: 'A']
+[85: 'A', 130: 'A', 280: 'T', 436: 'T']
+Key positions: 0 []
+Lcount: 1pos: 0 2pos: 1 3pos: 106 4pos: 335 5pos: 229
+Frequency of first codon position: 0.192329545455
+Frequency of second codon position: 0.00596590909091
+Frequency of third codon position: 0.801704545455
+*************** Pionoconus ***************
+Species / sequences analyzed: 11 / 40
+Independent combinations: 3
+[253: 'G', 334: 'T', 388: 'T']
+[130: 'G', 142: 'T', 556: 'T', 653: 'C']
+[205: 'T', 223: 'A', 229: 'A', 481: 'G', 520: 'G']
+Key positions: 0 []
+Lcount: 1pos: 0 2pos: 1 3pos: 45 4pos: 534 5pos: 368
+Frequency of first codon position: 0.214038461538
+Frequency of second codon position: 0.0126923076923
+Frequency of third codon position: 0.773269230769
+*************** Rhizoconus ***************
+Species / sequences analyzed: 7 / 33
+Independent combinations: 4
+[151: 'C', 334: 'T', 388: 'G', 436: 'G']
+[310: 'G', 442: 'T', 514: 'G', 535: 'A']
+[73: 'G', 148: 'A', 304: 'T', 553: 'T', 559: 'G']
+[1: 'G', 94: 'G', 109: 'G', 415: 'T', 548: 'T', 577: 'G']
+Key positions: 0 []
+Lcount: 1pos: 0 2pos: 0 3pos: 0 4pos: 87 5pos: 204
+Frequency of first codon position: 0.0841750841751
+Frequency of second codon position: 0.011544011544
+Frequency of third codon position: 0.904280904281
+*************** Turriconus ***************
+Species / sequences analyzed: 8 / 52
+Independent combinations: 2
+[5: 'C', 34: 'G', 92: 'C', 529: 'T']
+[133: 'A', 151: 'T', 232: 'T', 304: 'T', 535: 'A']
+Key positions: 0 []
+Lcount: 1pos: 0 2pos: 0 3pos: 0 4pos: 4 5pos: 52
+Frequency of first codon position: 0.254071661238
+Frequency of second codon position: 0.0114006514658
+Frequency of third codon position: 0.734527687296

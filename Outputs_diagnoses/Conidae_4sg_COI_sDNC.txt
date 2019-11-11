@@ -1,0 +1,56 @@
+************** Cylinder **************
+Species / sequences analyzed: 7 / 44
+2 sDNC_score (100): 69
+3 sDNC_score (100): 68
+4 sDNC_score (100): 71
+5 sDNC_score (100): 70
+6 sDNC_score (100): 86
+7 sDNC_score (100): 82
+8 sDNC_score (100): 86
+9 sDNC_score (100): 88
+10 sDNC_score (100): 91
+11 sDNC_score (100): 96
+12 sDNC_score (100): 98
+13 sDNC_score (100): 98
+COI sDNC: [22: 'T', 85: 'A', 266: 'T', 278: 'C', 280: 'T', 301: 'A', 334: 'T', 418: 'T', 436: 'T', 475: 'A', 520: 'A', 562: 'T', 643: 'A'] 
+
+************** Pionoconus **************
+Species / sequences analyzed: 11 / 40
+2 sDNC_score (100): 68
+3 sDNC_score (100): 82
+4 sDNC_score (100): 88
+5 sDNC_score (100): 94
+6 sDNC_score (100): 98
+7 sDNC_score (100): 100
+8 sDNC_score (100): 95
+COI sDNC: [130: 'G', 205: 'T', 253: 'G', 388: 'T', 481: 'G', 520: 'G', 556: 'T', 653: 'C'] 
+
+************** Turriconus **************
+Species / sequences analyzed: 8 / 52
+4 sDNC_score (100): 0
+5 sDNC_score (100): 0
+6 sDNC_score (100): 59
+7 sDNC_score (100): 69
+8 sDNC_score (100): 77
+9 sDNC_score (100): 81
+10 sDNC_score (100): 74
+11 sDNC_score (100): 90
+12 sDNC_score (100): 94
+13 sDNC_score (100): 97
+14 sDNC_score (100): 95
+15 sDNC_score (100): 96
+COI sDNC: [5: 'C', 92: 'C', 133: 'A', 151: 'T', 193: 'T', 232: 'T', 268: 'T', 304: 'T', 337: 'A', 403: 'A', 406: 'T', 529: 'T', 535: 'A', 568: 'A', 607: 'T'] 
+
+
+************** Rhizoconus **************
+Species / sequences analyzed: 7 / 33
+4 sDNC_score (100): 0
+5 sDNC_score (100): 2
+6 sDNC_score (100): 92
+7 sDNC_score (100): 89
+8 sDNC_score (100): 98
+9 sDNC_score (100): 99
+10 sDNC_score (100): 95
+COI sDNC: [73: 'G', 94: 'G', 151: 'C', 304: 'T', 310: 'G', 388: 'G', 436: 'G', 514: 'G', 559: 'G', 577: 'G'] 
+
+

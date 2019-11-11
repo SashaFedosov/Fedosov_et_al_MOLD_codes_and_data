@@ -1,0 +1,21 @@
+*************** Cranioleuca ***************
+Species / sequences analyzed: 24 / 27
+Independent combinations: 5
+[111: 'A', 180: 'T']
+[276: 'A', 559: 'T', 855: 'C']
+[158: 'C', 456: 'C', 738: 'C']
+[450: 'T', 532: 'A', 722: 'A', 1036: 'C']
+[519: 'T', 573: 'C', 621: 'A', 637: 'A']
+Key positions: 0 []
+Lcount: 1pos: 0 2pos: 13 3pos: 404 4pos: 360 5pos: 93 6pos: 11 7pos: 0 Frequency of first codon position: 0.166406980368
+Frequency of second codon position: 0.0984730445622
+Frequency of third codon position: 0.73511997507
+*************** Synallaxis ***************
+Species / sequences analyzed: 30 / 32
+Independent combinations: 2
+[424: 'A', 642: 'A', 965: 'A', 1027: 'T']
+[31: 'A', 370: 'C', 503: 'T', 508: 'C', 741: 'A', 843: 'C']
+Key positions: 0 []
+Lcount: 1pos: 0 2pos: 0 3pos: 0 4pos: 77 5pos: 222 6pos: 111 7pos: 21 Frequency of first codon position: 0.272075302555
+Frequency of second codon position: 0.0954728821156
+Frequency of third codon position: 0.632451815329
