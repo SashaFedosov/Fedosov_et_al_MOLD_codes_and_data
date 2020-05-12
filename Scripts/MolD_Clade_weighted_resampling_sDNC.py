@@ -353,7 +353,7 @@ for n in range(2, len(All_clades_species[qCLADE])+1, 2):#This block of code samp
             while L > 0:
                 NComplist, NCPP = Screwed_dataset3(raw_records, qCLADE, Sp_per_clade_to_screw)
                 NBarcode = [i for i in Barcode if i in list(NCPP.keys())]#i
-                if ConditionD(NBarcode, NComplist, NCPP) == True:
+                if len(Barcode) - len(NBarcode) <= 1 and ConditionD(NBarcode, NComplist, NCPP) == True:
                     Barcode_score +=1
                 L -=1
             print npos, 'Barcode_score (100):', Barcode_score
