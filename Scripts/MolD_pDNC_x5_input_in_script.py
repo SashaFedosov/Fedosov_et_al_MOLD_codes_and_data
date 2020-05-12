@@ -1,6 +1,6 @@
 """
 This script compiles pDNC-based DNA diagnoses for a pre-defined taxa in a dataset
-This is working version to be used for both, the species-level and supraspecific taxa
+This is working version to be used for both, the species-level and supraspecific taxa.
 """
 import os
 import random
