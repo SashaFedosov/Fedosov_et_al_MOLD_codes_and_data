@@ -398,7 +398,7 @@ def main():
             while N > 0:
                 NComplist, NCPP = Screwed_dataset31(raw_records, qCLADE, Seq_per_clade_to_screw, P_to_screw, KeyPos, Percent_difference, Cutoff)#Create an artificial dataset
                 NBarcode = [i for i in Barcode if i in list(NCPP.keys())]
-                if ConditionD(NBarcode, NComplist, NCPP) == True:#Check whether the sDNC works for the artificial dataset
+                if len(Barcode) - len(NBarcode) <= 1 and ConditionD(NBarcode, NComplist, NCPP) == True:#Check whether the sDNC works for the artificial dataset
                     Barcode_score +=1
                 N -=1
             print npos, 'sDNC_score (100):', Barcode_score
