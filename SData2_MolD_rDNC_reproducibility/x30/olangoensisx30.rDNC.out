@@ -1,0 +1,164 @@
+************** olangoensis **************
+Sequences analyzed: 31
+single nucleotide pDNCs: 2 - 403: 'A', 421: 'A'
+1 sDNC_score (100): [402] - 18
+2 sDNC_score (100): [402, 420] - 81
+3 sDNC_score (100): [402, 420, 423] - 91
+final sDNC: [403: 'A', 421: 'A', 424: 'C'] 
+
+1 sDNC_score (100): [402] - 20
+2 sDNC_score (100): [402, 420] - 73
+3 sDNC_score (100): [402, 420, 423] - 88
+4 sDNC_score (100): [402, 420, 423, 633] - 83
+final sDNC: [403: 'A', 421: 'A', 424: 'C', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 18
+2 sDNC_score (100): [402, 420] - 78
+3 sDNC_score (100): [402, 420, 423] - 87
+final sDNC: [403: 'A', 421: 'A', 424: 'C'] 
+
+1 sDNC_score (100): [402] - 21
+2 sDNC_score (100): [402, 420] - 78
+3 sDNC_score (100): [402, 420, 423] - 89
+final sDNC: [403: 'A', 421: 'A', 424: 'C'] 
+
+1 sDNC_score (100): [402] - 14
+2 sDNC_score (100): [402, 420] - 79
+3 sDNC_score (100): [402, 420, 633] - 83
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 24
+2 sDNC_score (100): [402, 420] - 72
+3 sDNC_score (100): [402, 420, 633] - 74
+4 sDNC_score (100): [402, 420, 633, 423] - 89
+5 sDNC_score (100): [402, 420, 633, 423, 417] - 86
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 424: 'C', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 23
+2 sDNC_score (100): [402, 420] - 78
+3 sDNC_score (100): [402, 420, 633] - 84
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 17
+2 sDNC_score (100): [402, 420] - 71
+3 sDNC_score (100): [402, 420, 633] - 82
+4 sDNC_score (100): [402, 420, 633, 423] - 88
+final sDNC: [403: 'A', 421: 'A', 424: 'C', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 13
+2 sDNC_score (100): [402, 420] - 79
+3 sDNC_score (100): [402, 420, 633] - 87
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 19
+2 sDNC_score (100): [402, 420] - 76
+3 sDNC_score (100): [402, 420, 633] - 84
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 18
+2 sDNC_score (100): [402, 420] - 76
+3 sDNC_score (100): [402, 420, 633] - 85
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 20
+2 sDNC_score (100): [402, 420] - 74
+3 sDNC_score (100): [402, 420, 633] - 89
+4 sDNC_score (100): [402, 420, 633, 417] - 88
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 21
+2 sDNC_score (100): [402, 420] - 88
+3 sDNC_score (100): [402, 420, 633] - 82
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 22
+2 sDNC_score (100): [402, 420] - 78
+3 sDNC_score (100): [402, 420, 633] - 83
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 23
+2 sDNC_score (100): [402, 420] - 69
+3 sDNC_score (100): [402, 420, 633] - 89
+4 sDNC_score (100): [402, 420, 633, 417] - 84
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 18
+2 sDNC_score (100): [402, 420] - 76
+3 sDNC_score (100): [402, 420, 633] - 86
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 26
+2 sDNC_score (100): [402, 420] - 79
+3 sDNC_score (100): [402, 420, 633] - 85
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 20
+2 sDNC_score (100): [402, 420] - 76
+3 sDNC_score (100): [402, 420, 633] - 85
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 13
+2 sDNC_score (100): [402, 420] - 75
+3 sDNC_score (100): [402, 420, 633] - 82
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 20
+2 sDNC_score (100): [402, 420] - 66
+3 sDNC_score (100): [402, 420, 633] - 78
+4 sDNC_score (100): [402, 420, 633, 417] - 80
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 14
+2 sDNC_score (100): [402, 420] - 74
+3 sDNC_score (100): [402, 420, 633] - 82
+4 sDNC_score (100): [402, 420, 633, 417] - 81
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 20
+2 sDNC_score (100): [402, 420] - 82
+3 sDNC_score (100): [402, 420, 633] - 83
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 11
+2 sDNC_score (100): [402, 420] - 81
+3 sDNC_score (100): [402, 420, 633] - 76
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 21
+2 sDNC_score (100): [402, 420] - 71
+3 sDNC_score (100): [402, 420, 633] - 93
+4 sDNC_score (100): [402, 420, 633, 417] - 83
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 14
+2 sDNC_score (100): [402, 420] - 82
+3 sDNC_score (100): [402, 420, 633] - 85
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 11
+2 sDNC_score (100): [402, 420] - 73
+3 sDNC_score (100): [402, 420, 633] - 76
+4 sDNC_score (100): [402, 420, 633, 417] - 80
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 13
+2 sDNC_score (100): [402, 420] - 72
+3 sDNC_score (100): [402, 420, 633] - 85
+4 sDNC_score (100): [402, 420, 633, 417] - 83
+final sDNC: [403: 'A', 418: 'C', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 21
+2 sDNC_score (100): [402, 420] - 76
+3 sDNC_score (100): [402, 420, 633] - 82
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 20
+2 sDNC_score (100): [402, 420] - 75
+3 sDNC_score (100): [402, 420, 633] - 79
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+
+1 sDNC_score (100): [402] - 13
+2 sDNC_score (100): [402, 420] - 79
+3 sDNC_score (100): [402, 420, 633] - 85
+final sDNC: [403: 'A', 421: 'A', 634: 'T'] 
+

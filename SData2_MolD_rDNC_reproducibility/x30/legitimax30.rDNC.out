@@ -1,0 +1,162 @@
+************** legitima **************
+Sequences analyzed: 71
+single nucleotide pDNCs: 24 - 5: 'C', 31: 'C', 70: 'C', 133: 'T', 151: 'C', 166: 'G', 184: 'G', 193: 'C', 206: 'C', 211: 'G', 229: 'G', 241: 'T', 250: 'C', 322: 'G', 346: 'C', 361: 'G', 407: 'C', 418: 'G', 430: 'G', 484: 'A', 539: 'T', 541: 'A', 547: 'C', 556: 'T'
+1 sDNC_score (100): [4] - 14
+2 sDNC_score (100): [4, 30] - 74
+3 sDNC_score (100): [4, 30, 69] - 93
+4 sDNC_score (100): [4, 30, 69, 132] - 86
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 26
+2 sDNC_score (100): [4, 30] - 83
+3 sDNC_score (100): [4, 30, 69] - 95
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 19
+2 sDNC_score (100): [4, 30] - 74
+3 sDNC_score (100): [4, 30, 69] - 94
+4 sDNC_score (100): [4, 30, 69, 132] - 93
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 28
+2 sDNC_score (100): [4, 30] - 75
+3 sDNC_score (100): [4, 30, 69] - 93
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 15
+2 sDNC_score (100): [4, 30] - 76
+3 sDNC_score (100): [4, 30, 69] - 95
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 21
+2 sDNC_score (100): [4, 30] - 83
+3 sDNC_score (100): [4, 30, 69] - 92
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 15
+2 sDNC_score (100): [4, 30] - 81
+3 sDNC_score (100): [4, 30, 69] - 90
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 18
+2 sDNC_score (100): [4, 30] - 76
+3 sDNC_score (100): [4, 30, 69] - 92
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 20
+2 sDNC_score (100): [4, 30] - 81
+3 sDNC_score (100): [4, 30, 69] - 93
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 18
+2 sDNC_score (100): [4, 30] - 80
+3 sDNC_score (100): [4, 30, 69] - 91
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 24
+2 sDNC_score (100): [4, 30] - 76
+3 sDNC_score (100): [4, 30, 69] - 90
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 31
+2 sDNC_score (100): [4, 30] - 73
+3 sDNC_score (100): [4, 30, 69] - 92
+4 sDNC_score (100): [4, 30, 69, 132] - 88
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 20
+2 sDNC_score (100): [4, 30] - 72
+3 sDNC_score (100): [4, 30, 69] - 98
+4 sDNC_score (100): [4, 30, 69, 132] - 89
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 25
+2 sDNC_score (100): [4, 30] - 73
+3 sDNC_score (100): [4, 30, 69] - 92
+4 sDNC_score (100): [4, 30, 69, 132] - 93
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 14
+2 sDNC_score (100): [4, 30] - 75
+3 sDNC_score (100): [4, 30, 69] - 95
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 19
+2 sDNC_score (100): [4, 30] - 70
+3 sDNC_score (100): [4, 30, 69] - 90
+4 sDNC_score (100): [4, 30, 69, 132] - 93
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 18
+2 sDNC_score (100): [4, 30] - 77
+3 sDNC_score (100): [4, 30, 69] - 94
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 18
+2 sDNC_score (100): [4, 30] - 79
+3 sDNC_score (100): [4, 30, 69] - 94
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 13
+2 sDNC_score (100): [4, 30] - 75
+3 sDNC_score (100): [4, 30, 69] - 95
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 12
+2 sDNC_score (100): [4, 30] - 69
+3 sDNC_score (100): [4, 30, 69] - 94
+4 sDNC_score (100): [4, 30, 69, 132] - 83
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 12
+2 sDNC_score (100): [4, 30] - 87
+3 sDNC_score (100): [4, 30, 69] - 95
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 20
+2 sDNC_score (100): [4, 30] - 72
+3 sDNC_score (100): [4, 30, 69] - 94
+4 sDNC_score (100): [4, 30, 69, 132] - 86
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 21
+2 sDNC_score (100): [4, 30] - 82
+3 sDNC_score (100): [4, 30, 69] - 96
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 26
+2 sDNC_score (100): [4, 30] - 80
+3 sDNC_score (100): [4, 30, 69] - 92
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 18
+2 sDNC_score (100): [4, 30] - 75
+3 sDNC_score (100): [4, 30, 69] - 90
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 20
+2 sDNC_score (100): [4, 30] - 78
+3 sDNC_score (100): [4, 30, 69] - 92
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 23
+2 sDNC_score (100): [4, 30] - 82
+3 sDNC_score (100): [4, 30, 69] - 94
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 25
+2 sDNC_score (100): [4, 30] - 73
+3 sDNC_score (100): [4, 30, 69] - 95
+4 sDNC_score (100): [4, 30, 69, 132] - 91
+final sDNC: [5: 'C', 31: 'C', 70: 'C', 133: 'T'] 
+
+1 sDNC_score (100): [4] - 14
+2 sDNC_score (100): [4, 30] - 78
+3 sDNC_score (100): [4, 30, 69] - 96
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
+1 sDNC_score (100): [4] - 10
+2 sDNC_score (100): [4, 30] - 81
+3 sDNC_score (100): [4, 30, 69] - 92
+final sDNC: [5: 'C', 31: 'C', 70: 'C'] 
+
