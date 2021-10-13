@@ -1,0 +1,146 @@
+########################## PARAMETERS ######################
+input file: D:\reMOLD\Xenuroturris_COI.fas
+Coding gaps as characters: False
+Maximum undetermined nucleotides allowed: 50
+Length of the alignment: 658
+Read in 230 sequences
+query taxa: 12 - devoizei, musivum, legitima, cingulifera, conotaxis, devoizei_cf., olangoensis, notata, kingae, millepunctata, marquisensis, nsp
+Cutoff set as: 100
+Number iterations of MolD set as: 10000
+Maximum length of raw pDNCs set as: 12
+Maximum length of refined pDNCs set as: 5
+simulated sequences up to 1 percent divergent from original ones
+Maximum number of sequences modified per clade 10
+moderate scoring of the sDNCs; threshold in two consequtive runs: 75
+
+########################### RESULTS ##########################
+
+************** devoizei **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 4 - 226: 'C', 259: 'C', 271: 'C', 382: 'G'
+pDNCs retrieved : 1368; Positions involved: 99; Independent pDNCs: 11
+Shortest retrieved diagnostic combination: [226: 'C']
+1 sDNC_score (100): [226] - 18
+2 sDNC_score (100): [226, 259] - 83
+3 sDNC_score (100): [226, 259, 271] - 99
+final sDNC: [226: 'C', 259: 'C', 271: 'C']
+
+************** musivum **************
+Sequences analyzed: 41
+single nucleotide pDNCs: 1 - 91: 'A'
+pDNCs retrieved : 812; Positions involved: 99; Independent pDNCs: 6
+Shortest retrieved diagnostic combination: [91: 'A']
+1 sDNC_score (100): [91] - 22
+2 sDNC_score (100): [91, 277] - 60
+3 sDNC_score (100): [91, 277, 634] - 86
+4 sDNC_score (100): [91, 277, 634, 607] - 91
+final sDNC: [91: 'A', 277: 'G', 607: 'T', 634: 'C']
+
+************** legitima **************
+Sequences analyzed: 71
+single nucleotide pDNCs: 24 - 5: 'C', 31: 'C', 70: 'C', 133: 'T', 151: 'C', 166: 'G', 184: 'G', 193: 'C', 206: 'C', 211: 'G', 229: 'G', 241: 'T', 250: 'C', 322: 'G', 346: 'C', 361: 'G', 407: 'C', 418: 'G', 430: 'G', 484: 'A', 539: 'T', 541: 'A', 547: 'C', 556: 'T'
+pDNCs retrieved : 1533; Positions involved: 100; Independent pDNCs: 44
+Shortest retrieved diagnostic combination: [5: 'C']
+1 sDNC_score (100): [5] - 14
+2 sDNC_score (100): [5, 31] - 73
+3 sDNC_score (100): [5, 31, 70] - 98
+4 sDNC_score (100): [5, 31, 70, 133] - 85
+final sDNC: [5: 'C', 31: 'C', 70: 'C']
+
+************** cingulifera **************
+Sequences analyzed: 53
+single nucleotide pDNCs: 3 - 265: 'G', 466: 'G', 607: 'A'
+pDNCs retrieved : 1410; Positions involved: 96; Independent pDNCs: 13
+Shortest retrieved diagnostic combination: [265: 'G']
+1 sDNC_score (100): [265] - 15
+2 sDNC_score (100): [265, 466] - 82
+3 sDNC_score (100): [265, 466, 607] - 93
+final sDNC: [265: 'G', 466: 'G', 607: 'A']
+
+************** conotaxis **************
+Sequences analyzed: 8
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 539; Positions involved: 83; Independent pDNCs: 5
+Shortest retrieved diagnostic combination: [334: 'T', 418: 'T']
+2 sDNC_score (100): [418, 334] - 25
+3 sDNC_score (100): [418, 334, 281] - 54
+4 sDNC_score (100): [418, 334, 281, 64] - 74
+5 sDNC_score (100): [418, 334, 281, 64, 286] - 70
+6 sDNC_score (100): [418, 334, 281, 64, 286, 197] - 70
+7 sDNC_score (100): [418, 334, 281, 64, 286, 197, 61] - 67
+8 sDNC_score (100): [418, 334, 281, 64, 286, 197, 61, 616] - 59
+9 sDNC_score (100): [418, 334, 281, 64, 286, 197, 61, 616, 598] - 40
+10 sDNC_score (100): [418, 334, 281, 64, 286, 197, 61, 616, 598, 469] - 52
+No sufficiently robust was retrieved
+
+************** devoizei_cf. **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 418; Positions involved: 100; Independent pDNCs: 6
+Shortest retrieved diagnostic combination: [334: 'C', 343: 'C']
+2 sDNC_score (100): [385, 565] - 61
+3 sDNC_score (100): [385, 565, 343] - 91
+4 sDNC_score (100): [385, 565, 343, 61] - 90
+final sDNC: [343: 'C', 385: 'T', 565: 'G']
+
+************** olangoensis **************
+Sequences analyzed: 31
+single nucleotide pDNCs: 2 - 403: 'A', 421: 'A'
+pDNCs retrieved : 158; Positions involved: 44; Independent pDNCs: 5
+Shortest retrieved diagnostic combination: [403: 'A']
+1 sDNC_score (100): [403] - 15
+2 sDNC_score (100): [403, 421] - 81
+3 sDNC_score (100): [403, 421, 424] - 82
+final sDNC: [403: 'A', 421: 'A', 424: 'C']
+
+************** notata **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 2 - 235: 'C', 359: 'C'
+pDNCs retrieved : 1242; Positions involved: 97; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [235: 'C']
+1 sDNC_score (100): [235] - 17
+2 sDNC_score (100): [235, 359] - 79
+3 sDNC_score (100): [235, 359, 601] - 93
+final sDNC: [235: 'C', 359: 'C', 601: 'C']
+
+************** kingae **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 1088; Positions involved: 95; Independent pDNCs: 5
+Shortest retrieved diagnostic combination: [307: 'A', 598: 'A']
+2 sDNC_score (100): [307, 433] - 0
+3 sDNC_score (100): [307, 433, 595] - 67
+4 sDNC_score (100): [307, 433, 595, 568] - 85
+5 sDNC_score (100): [307, 433, 595, 568, 598] - 89
+final sDNC: [307: 'A', 433: 'G', 568: 'C', 595: 'C', 598: 'A']
+
+************** millepunctata **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 7 - 127: 'T', 253: 'G', 319: 'C', 376: 'C', 529: 'C', 586: 'C', 598: 'C'
+pDNCs retrieved : 1483; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [127: 'T']
+1 sDNC_score (100): [127] - 16
+2 sDNC_score (100): [127, 253] - 79
+3 sDNC_score (100): [127, 253, 319] - 91
+final sDNC: [127: 'T', 253: 'G', 319: 'C']
+
+************** marquisensis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 2 - 30: 'T', 556: 'A'
+pDNCs retrieved : 889; Positions involved: 99; Independent pDNCs: 7
+Shortest retrieved diagnostic combination: [30: 'T']
+1 sDNC_score (100): [30] - 14
+2 sDNC_score (100): [30, 556] - 89
+3 sDNC_score (100): [30, 556, 73] - 91
+final sDNC: [30: 'T', 73: 'A', 556: 'A']
+
+************** nsp **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 3 - 163: 'G', 316: 'T', 533: 'C'
+pDNCs retrieved : 1199; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [163: 'G']
+1 sDNC_score (100): [163] - 15
+2 sDNC_score (100): [163, 316] - 89
+3 sDNC_score (100): [163, 316, 533] - 95
+final sDNC: [163: 'G', 316: 'T', 533: 'C']
+Time of the code execution: 433.702000141

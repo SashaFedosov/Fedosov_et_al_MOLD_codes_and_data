@@ -1,0 +1,1023 @@
+########################## PARAMETERS ######################
+input file: D:\reMOLD\Tanytarsus_PGDI.fas
+Coding gaps as characters: False
+Maximum undetermined nucleotides allowed: 50
+Length of the alignment: 748
+Read in 203 sequences
+query taxa: 99 - aboensis, adustus, aigos, albisutus, anderseni, angulatus, aterrimus, bathophilus, bispinosus, biwatrifurcus, brundini, buchonius, cf.riopreto, clivosus, curticornis, curvicristatus, debilis, dendyi, desertor, edwardi, ejuncidus, eminulus, excavatus, fastigatus, formosanus, fuscithorax, giovannii, gracilentus, gregarius, hamatus, hastatus, heberti, herrmanni, heusdensis, hjulorum, hoefleri, inaequalis, innarensis, iriolemeus, jacaretingensis, jatai, kapilei, kiche, lactescens, lestagei, longitarsis, longitubuli, luctuosus, madeiraensis, mcmillani, medius, mendax, miriforceps, motosuensis, nemorosus, niger, nigricollis, obiriciae, occultus, okuboi, ortoni, oscillans, ovatus, palettaris, pallidicornis, pallidulus, pandus, paraniger, pollexus, pseudoheusdensis, recurvatus, reei, rhabdomantis, shouautumnalis, shoudigitatus, signatus, simantoseteus, simantoteuus, sinuatus, songi, spadiceonotatus, striatulus, sylvaticus, takahashii, tamaduodecimus, tamagotoi, tamakutibasi, tamaoctavus, tamaundecimus, thaicus, thomasi, tongmuensis, unagiseptimus, usmaensis, verralli, volgensis, wangi, wirthi, yunosecundus
+Cutoff set as: 100
+Number iterations of MolD set as: 10000
+Maximum length of raw pDNCs set as: 12
+Maximum length of refined pDNCs set as: 5
+simulated sequences up to 1 percent divergent from original ones
+Maximum number of sequences modified per clade 10
+moderate scoring of the sDNCs; threshold in two consequtive runs: 75
+
+########################### RESULTS ##########################
+
+************** aboensis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5642; Positions involved: 100; Independent pDNCs: 33
+Shortest retrieved diagnostic combination: [496: 'A', 505: 'T']
+2 sDNC_score (100): [281, 88] - 67
+3 sDNC_score (100): [281, 88, 635] - 86
+4 sDNC_score (100): [281, 88, 635, 719] - 96
+final sDNC: [88: 'G', 281: 'T', 635: 'A', 719: 'T']
+
+************** adustus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6489; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [409: 'T', 436: 'A']
+2 sDNC_score (100): [436, 403] - 72
+3 sDNC_score (100): [436, 403, 727] - 87
+4 sDNC_score (100): [436, 403, 727, 286] - 96
+final sDNC: [286: 'G', 403: 'A', 436: 'A', 727: 'A']
+
+************** aigos **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 259: 'A'
+pDNCs retrieved : 6264; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [259: 'A']
+1 sDNC_score (100): [259] - 15
+2 sDNC_score (100): [259, 76] - 82
+3 sDNC_score (100): [259, 76, 61] - 96
+final sDNC: [61: 'A', 76: 'T', 259: 'A']
+
+************** albisutus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 4 - 348: 'G', 350: 'G', 353: 'C', 514: 'C'
+pDNCs retrieved : 5420; Positions involved: 100; Independent pDNCs: 35
+Shortest retrieved diagnostic combination: [348: 'G']
+1 sDNC_score (100): [348] - 0
+2 sDNC_score (100): [348, 350] - 84
+3 sDNC_score (100): [348, 350, 353] - 95
+final sDNC: [348: 'G', 350: 'G', 353: 'C']
+
+************** anderseni **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4011; Positions involved: 100; Independent pDNCs: 12
+Shortest retrieved diagnostic combination: [397: 'G', 583: 'C']
+2 sDNC_score (100): [445, 397] - 72
+3 sDNC_score (100): [445, 397, 568] - 96
+4 sDNC_score (100): [445, 397, 568, 520] - 96
+final sDNC: [397: 'G', 445: 'G', 520: 'G', 568: 'C']
+
+************** angulatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6834; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [271: 'C', 403: 'A']
+2 sDNC_score (100): [742, 25] - 77
+3 sDNC_score (100): [742, 25, 403] - 95
+final sDNC: [25: 'T', 403: 'A', 742: 'G']
+
+************** aterrimus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6554; Positions involved: 100; Independent pDNCs: 30
+Shortest retrieved diagnostic combination: [472: 'C', 635: 'A']
+2 sDNC_score (100): [608, 75] - 52
+3 sDNC_score (100): [608, 75, 25] - 90
+4 sDNC_score (100): [608, 75, 25, 635] - 96
+final sDNC: [25: 'A', 75: 'C', 608: 'G', 635: 'A']
+
+************** bathophilus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4599; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [268: 'A', 505: 'T']
+2 sDNC_score (100): [685, 466] - 57
+3 sDNC_score (100): [685, 466, 220] - 89
+4 sDNC_score (100): [685, 466, 220, 331] - 97
+final sDNC: [220: 'G', 331: 'G', 466: 'A', 685: 'A']
+
+************** bispinosus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 541: 'T'
+pDNCs retrieved : 5911; Positions involved: 100; Independent pDNCs: 32
+Shortest retrieved diagnostic combination: [541: 'T']
+1 sDNC_score (100): [541] - 52
+2 sDNC_score (100): [541, 193] - 82
+3 sDNC_score (100): [541, 193, 526] - 95
+final sDNC: [193: 'T', 526: 'T', 541: 'T']
+
+************** biwatrifurcus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7187; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [37: 'T', 646: 'A']
+2 sDNC_score (100): [565, 37] - 75
+3 sDNC_score (100): [565, 37, 25] - 89
+final sDNC: [25: 'G', 37: 'T', 565: 'T']
+
+************** brundini **************
+Sequences analyzed: 14
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 778; Positions involved: 100; Independent pDNCs: 0
+Shortest retrieved diagnostic combination: [130: 'C', 220: 'C']
+2 sDNC_score (100): [220, 130] - 2
+3 sDNC_score (100): [220, 130, 707] - 33
+4 sDNC_score (100): [220, 130, 707, 518] - 74
+5 sDNC_score (100): [220, 130, 707, 518, 208] - 81
+6 sDNC_score (100): [220, 130, 707, 518, 208, 554] - 79
+final sDNC: [130: 'C', 208: 'C', 220: 'C', 518: 'T', 707: 'A']
+
+************** buchonius **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 610: 'A'
+pDNCs retrieved : 6379; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [610: 'A']
+1 sDNC_score (100): [610] - 78
+2 sDNC_score (100): [610, 415] - 87
+final sDNC: [415: 'G', 610: 'A']
+
+************** cf.riopreto **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 430: 'T', 635: 'T'
+pDNCs retrieved : 6509; Positions involved: 100; Independent pDNCs: 36
+Shortest retrieved diagnostic combination: [430: 'T']
+1 sDNC_score (100): [430] - 40
+2 sDNC_score (100): [430, 635] - 81
+3 sDNC_score (100): [430, 635, 746] - 95
+final sDNC: [430: 'T', 635: 'T', 746: 'A']
+
+************** clivosus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5416; Positions involved: 100; Independent pDNCs: 29
+Shortest retrieved diagnostic combination: [548: 'T', 709: 'G']
+2 sDNC_score (100): [709, 598] - 77
+3 sDNC_score (100): [709, 598, 397] - 94
+final sDNC: [397: 'G', 598: 'C', 709: 'G']
+
+************** curticornis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4646; Positions involved: 100; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [350: 'C', 583: 'C']
+2 sDNC_score (100): [667, 232] - 44
+3 sDNC_score (100): [667, 232, 350] - 80
+4 sDNC_score (100): [667, 232, 350, 715] - 91
+final sDNC: [232: 'T', 350: 'C', 667: 'G', 715: 'G']
+
+************** curvicristatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 3 - 271: 'G', 550: 'C', 619: 'A'
+pDNCs retrieved : 5371; Positions involved: 100; Independent pDNCs: 35
+Shortest retrieved diagnostic combination: [271: 'G']
+1 sDNC_score (100): [271] - 65
+2 sDNC_score (100): [271, 550] - 94
+3 sDNC_score (100): [271, 550, 619] - 99
+final sDNC: [271: 'G', 550: 'C', 619: 'A']
+
+************** debilis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 561: 'C'
+pDNCs retrieved : 5581; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [561: 'C']
+1 sDNC_score (100): [561] - 2
+2 sDNC_score (100): [561, 685] - 76
+3 sDNC_score (100): [561, 685, 328] - 94
+final sDNC: [328: 'C', 561: 'C', 685: 'G']
+
+************** dendyi **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 2 - 68: 'C', 76: 'C'
+pDNCs retrieved : 6740; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [68: 'C']
+1 sDNC_score (100): [68] - 0
+2 sDNC_score (100): [68, 76] - 95
+3 sDNC_score (100): [68, 76, 634] - 96
+final sDNC: [68: 'C', 76: 'C', 634: 'A']
+
+************** desertor **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6641; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [259: 'C', 550: 'G']
+2 sDNC_score (100): [220, 382] - 68
+3 sDNC_score (100): [220, 382, 88] - 87
+4 sDNC_score (100): [220, 382, 88, 259] - 93
+final sDNC: [88: 'A', 220: 'G', 259: 'C', 382: 'T']
+
+************** edwardi **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6410; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [349: 'A', 397: 'A']
+2 sDNC_score (100): [155, 385] - 55
+3 sDNC_score (100): [155, 385, 607] - 91
+4 sDNC_score (100): [155, 385, 607, 303] - 97
+final sDNC: [155: 'C', 303: 'G', 385: 'A', 607: 'T']
+
+************** ejuncidus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 2 - 32: 'T', 622: 'T'
+pDNCs retrieved : 5303; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [32: 'T']
+1 sDNC_score (100): [32] - 0
+2 sDNC_score (100): [32, 622] - 89
+3 sDNC_score (100): [32, 622, 118] - 93
+final sDNC: [32: 'T', 118: 'T', 622: 'T']
+
+************** eminulus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 336: 'T', 670: 'C'
+pDNCs retrieved : 5893; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [336: 'T']
+1 sDNC_score (100): [336] - 0
+2 sDNC_score (100): [336, 670] - 90
+3 sDNC_score (100): [336, 670, 464] - 97
+final sDNC: [336: 'T', 464: 'C', 670: 'C']
+
+************** excavatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7185; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [172: 'G', 382: 'T']
+2 sDNC_score (100): [172, 382] - 77
+3 sDNC_score (100): [172, 382, 334] - 81
+final sDNC: [172: 'G', 334: 'T', 382: 'T']
+
+************** fastigatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 321: 'T', 329: 'T'
+pDNCs retrieved : 6013; Positions involved: 100; Independent pDNCs: 34
+Shortest retrieved diagnostic combination: [321: 'T']
+1 sDNC_score (100): [321] - 58
+2 sDNC_score (100): [321, 329] - 91
+3 sDNC_score (100): [321, 329, 562] - 98
+final sDNC: [321: 'T', 329: 'T', 562: 'C']
+
+************** formosanus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7259; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [52: 'A', 199: 'T']
+2 sDNC_score (100): [502, 268] - 77
+3 sDNC_score (100): [502, 268, 52] - 92
+final sDNC: [52: 'A', 268: 'A', 502: 'G']
+
+************** fuscithorax **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6950; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [451: 'T', 650: 'A']
+2 sDNC_score (100): [650, 652] - 0
+3 sDNC_score (100): [650, 652, 640] - 0
+4 sDNC_score (100): [650, 652, 640, 235] - 65
+5 sDNC_score (100): [650, 652, 640, 235, 373] - 88
+6 sDNC_score (100): [650, 652, 640, 235, 373, 697] - 94
+final sDNC: [235: 'G', 373: 'T', 640: 'A', 650: 'A', 652: 'G', 697: 'T']
+
+************** giovannii **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 3 - 572: 'C', 574: 'C', 721: 'G'
+pDNCs retrieved : 6037; Positions involved: 100; Independent pDNCs: 35
+Shortest retrieved diagnostic combination: [572: 'C']
+1 sDNC_score (100): [572] - 0
+2 sDNC_score (100): [572, 574] - 89
+3 sDNC_score (100): [572, 574, 721] - 96
+final sDNC: [572: 'C', 574: 'C', 721: 'G']
+
+************** gracilentus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 605: 'T'
+pDNCs retrieved : 5922; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [605: 'T']
+1 sDNC_score (100): [605] - 0
+2 sDNC_score (100): [605, 667] - 68
+3 sDNC_score (100): [605, 667, 241] - 78
+4 sDNC_score (100): [605, 667, 241, 568] - 96
+final sDNC: [241: 'T', 568: 'C', 605: 'T', 667: 'A']
+
+************** gregarius **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4502; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [421: 'T', 685: 'C']
+2 sDNC_score (100): [638, 145] - 0
+3 sDNC_score (100): [638, 145, 578] - 69
+4 sDNC_score (100): [638, 145, 578, 64] - 96
+5 sDNC_score (100): [638, 145, 578, 64, 165] - 93
+final sDNC: [64: 'A', 145: 'A', 578: 'A', 638: 'T']
+
+************** hamatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5620; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [75: 'C', 85: 'A']
+2 sDNC_score (100): [75, 597] - 45
+3 sDNC_score (100): [75, 597, 634] - 94
+4 sDNC_score (100): [75, 597, 634, 325] - 92
+final sDNC: [75: 'C', 597: 'C', 634: 'A']
+
+************** hastatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6780; Positions involved: 100; Independent pDNCs: 34
+Shortest retrieved diagnostic combination: [229: 'C', 328: 'T']
+2 sDNC_score (100): [664, 100] - 66
+3 sDNC_score (100): [664, 100, 328] - 94
+4 sDNC_score (100): [664, 100, 328, 94] - 91
+final sDNC: [100: 'G', 328: 'T', 664: 'G']
+
+************** heberti **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 374: 'G'
+pDNCs retrieved : 4713; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [374: 'G']
+1 sDNC_score (100): [374] - 0
+2 sDNC_score (100): [374, 484] - 60
+3 sDNC_score (100): [374, 484, 328] - 95
+4 sDNC_score (100): [374, 484, 328, 664] - 95
+final sDNC: [328: 'C', 374: 'G', 484: 'G', 664: 'C']
+
+************** herrmanni **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 724: 'T'
+pDNCs retrieved : 6164; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [724: 'T']
+1 sDNC_score (100): [724] - 4
+2 sDNC_score (100): [724, 172] - 79
+3 sDNC_score (100): [724, 172, 67] - 97
+final sDNC: [67: 'G', 172: 'G', 724: 'T']
+
+************** heusdensis **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7262; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [439: 'G', 601: 'T']
+2 sDNC_score (100): [601, 597] - 35
+3 sDNC_score (100): [601, 597, 211] - 83
+4 sDNC_score (100): [601, 597, 211, 607] - 91
+final sDNC: [211: 'G', 597: 'C', 601: 'T', 607: 'T']
+
+************** hjulorum **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 553: 'A'
+pDNCs retrieved : 4727; Positions involved: 100; Independent pDNCs: 40
+Shortest retrieved diagnostic combination: [553: 'A']
+1 sDNC_score (100): [553] - 74
+2 sDNC_score (100): [553, 40] - 89
+3 sDNC_score (100): [553, 40, 365] - 97
+final sDNC: [40: 'T', 365: 'C', 553: 'A']
+
+************** hoefleri **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7244; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [100: 'T', 517: 'C']
+2 sDNC_score (100): [526, 445] - 77
+3 sDNC_score (100): [526, 445, 100] - 96
+final sDNC: [100: 'T', 445: 'G', 526: 'C']
+
+************** inaequalis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2805; Positions involved: 100; Independent pDNCs: 8
+Shortest retrieved diagnostic combination: [64: 'A', 73: 'T']
+2 sDNC_score (100): [88, 428] - 58
+3 sDNC_score (100): [88, 428, 496] - 81
+4 sDNC_score (100): [88, 428, 496, 710] - 84
+final sDNC: [88: 'G', 428: 'C', 496: 'C', 710: 'A']
+
+************** innarensis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7032; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [547: 'T', 556: 'C']
+2 sDNC_score (100): [649, 298] - 66
+3 sDNC_score (100): [649, 298, 85] - 82
+4 sDNC_score (100): [649, 298, 85, 88] - 93
+final sDNC: [85: 'A', 88: 'A', 298: 'A', 649: 'C']
+
+************** iriolemeus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6274; Positions involved: 100; Independent pDNCs: 30
+Shortest retrieved diagnostic combination: [37: 'T', 682: 'T']
+2 sDNC_score (100): [330, 329] - 66
+3 sDNC_score (100): [330, 329, 395] - 92
+4 sDNC_score (100): [330, 329, 395, 37] - 95
+final sDNC: [37: 'T', 329: 'A', 330: 'G', 395: 'T']
+
+************** jacaretingensis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 5 - 37: 'C', 244: 'C', 283: 'C', 430: 'C', 559: 'G'
+pDNCs retrieved : 5452; Positions involved: 100; Independent pDNCs: 37
+Shortest retrieved diagnostic combination: [37: 'C']
+1 sDNC_score (100): [37] - 5
+2 sDNC_score (100): [37, 244] - 80
+3 sDNC_score (100): [37, 244, 283] - 95
+final sDNC: [37: 'C', 244: 'C', 283: 'C']
+
+************** jatai **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 2 - 317: 'T', 319: 'A'
+pDNCs retrieved : 6830; Positions involved: 100; Independent pDNCs: 32
+Shortest retrieved diagnostic combination: [317: 'T']
+1 sDNC_score (100): [317] - 17
+2 sDNC_score (100): [317, 319] - 87
+3 sDNC_score (100): [317, 319, 746] - 98
+final sDNC: [317: 'T', 319: 'A', 746: 'A']
+
+************** kapilei **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 312: 'T'
+pDNCs retrieved : 7577; Positions involved: 100; Independent pDNCs: 30
+Shortest retrieved diagnostic combination: [312: 'T']
+1 sDNC_score (100): [312] - 0
+2 sDNC_score (100): [312, 13] - 68
+3 sDNC_score (100): [312, 13, 160] - 87
+4 sDNC_score (100): [312, 13, 160, 442] - 95
+final sDNC: [13: 'A', 160: 'A', 312: 'T', 442: 'A']
+
+************** kiche **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 2 - 166: 'C', 367: 'T'
+pDNCs retrieved : 6015; Positions involved: 100; Independent pDNCs: 30
+Shortest retrieved diagnostic combination: [166: 'C']
+1 sDNC_score (100): [166] - 35
+2 sDNC_score (100): [166, 367] - 80
+3 sDNC_score (100): [166, 367, 304] - 98
+final sDNC: [166: 'C', 304: 'G', 367: 'T']
+
+************** lactescens **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6973; Positions involved: 100; Independent pDNCs: 29
+Shortest retrieved diagnostic combination: [577: 'G', 727: 'T']
+2 sDNC_score (100): [307, 241] - 71
+3 sDNC_score (100): [307, 241, 575] - 92
+4 sDNC_score (100): [307, 241, 575, 310] - 90
+final sDNC: [241: 'A', 307: 'G', 575: 'T']
+
+************** lestagei **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6394; Positions involved: 100; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [196: 'A', 679: 'T']
+2 sDNC_score (100): [310, 196] - 35
+3 sDNC_score (100): [310, 196, 262] - 84
+4 sDNC_score (100): [310, 196, 262, 637] - 96
+final sDNC: [196: 'A', 262: 'A', 310: 'T', 637: 'G']
+
+************** longitarsis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5389; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [106: 'T', 211: 'A']
+2 sDNC_score (100): [70, 106] - 79
+3 sDNC_score (100): [70, 106, 268] - 97
+final sDNC: [70: 'G', 106: 'T', 268: 'A']
+
+************** longitubuli **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 4 - 72: 'G', 376: 'A', 487: 'T', 661: 'A'
+pDNCs retrieved : 5657; Positions involved: 100; Independent pDNCs: 38
+Shortest retrieved diagnostic combination: [72: 'G']
+1 sDNC_score (100): [72] - 0
+2 sDNC_score (100): [72, 376] - 91
+3 sDNC_score (100): [72, 376, 487] - 97
+final sDNC: [72: 'G', 376: 'A', 487: 'T']
+
+************** luctuosus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 2 - 314: 'T', 316: 'G'
+pDNCs retrieved : 4719; Positions involved: 100; Independent pDNCs: 36
+Shortest retrieved diagnostic combination: [314: 'T']
+1 sDNC_score (100): [314] - 6
+2 sDNC_score (100): [314, 316] - 85
+3 sDNC_score (100): [314, 316, 88] - 96
+final sDNC: [88: 'G', 314: 'T', 316: 'G']
+
+************** madeiraensis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 268: 'G'
+pDNCs retrieved : 3004; Positions involved: 100; Independent pDNCs: 7
+Shortest retrieved diagnostic combination: [268: 'G']
+1 sDNC_score (100): [268] - 49
+2 sDNC_score (100): [268, 649] - 87
+3 sDNC_score (100): [268, 649, 34] - 85
+final sDNC: [268: 'G', 649: 'C']
+
+************** mcmillani **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6175; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [118: 'T', 685: 'C']
+2 sDNC_score (100): [304, 88] - 0
+3 sDNC_score (100): [304, 88, 73] - 79
+4 sDNC_score (100): [304, 88, 73, 235] - 93
+final sDNC: [73: 'A', 88: 'A', 235: 'C', 304: 'A']
+
+************** medius **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 3386; Positions involved: 100; Independent pDNCs: 9
+Shortest retrieved diagnostic combination: [34: 'T', 667: 'C']
+2 sDNC_score (100): [16, 667] - 70
+3 sDNC_score (100): [16, 667, 34] - 91
+4 sDNC_score (100): [16, 667, 34, 394] - 89
+final sDNC: [16: 'G', 34: 'T', 667: 'C']
+
+************** mendax **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 3021; Positions involved: 100; Independent pDNCs: 6
+Shortest retrieved diagnostic combination: [151: 'G', 484: 'T']
+2 sDNC_score (100): [151, 55] - 77
+3 sDNC_score (100): [151, 55, 484] - 89
+final sDNC: [55: 'G', 151: 'G', 484: 'T']
+
+************** miriforceps **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2565; Positions involved: 100; Independent pDNCs: 7
+Shortest retrieved diagnostic combination: [118: 'T', 277: 'T']
+2 sDNC_score (100): [118, 691] - 0
+3 sDNC_score (100): [118, 691, 223] - 68
+4 sDNC_score (100): [118, 691, 223, 664] - 95
+5 sDNC_score (100): [118, 691, 223, 664, 67] - 87
+final sDNC: [118: 'T', 223: 'C', 664: 'G', 691: 'T']
+
+************** motosuensis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 339: 'G'
+pDNCs retrieved : 7227; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [339: 'G']
+1 sDNC_score (100): [339] - 0
+2 sDNC_score (100): [339, 685] - 49
+3 sDNC_score (100): [339, 685, 317] - 80
+4 sDNC_score (100): [339, 685, 317, 172] - 94
+final sDNC: [172: 'C', 317: 'A', 339: 'G', 685: 'C']
+
+************** nemorosus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7082; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [148: 'C', 247: 'T']
+2 sDNC_score (100): [703, 262] - 72
+3 sDNC_score (100): [703, 262, 172] - 86
+4 sDNC_score (100): [703, 262, 172, 609] - 96
+final sDNC: [172: 'C', 262: 'A', 609: 'G', 703: 'G']
+
+************** niger **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4546; Positions involved: 100; Independent pDNCs: 11
+Shortest retrieved diagnostic combination: [415: 'G', 709: 'C']
+2 sDNC_score (100): [487, 169] - 27
+3 sDNC_score (100): [487, 169, 664] - 84
+4 sDNC_score (100): [487, 169, 664, 415] - 94
+final sDNC: [169: 'C', 415: 'G', 487: 'A', 664: 'G']
+
+************** nigricollis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4297; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [354: 'G', 610: 'G']
+2 sDNC_score (100): [610, 358] - 74
+3 sDNC_score (100): [610, 358, 607] - 89
+4 sDNC_score (100): [610, 358, 607, 355] - 97
+final sDNC: [355: 'A', 358: 'C', 607: 'T', 610: 'G']
+
+************** obiriciae **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 238: 'G'
+pDNCs retrieved : 6610; Positions involved: 100; Independent pDNCs: 31
+Shortest retrieved diagnostic combination: [238: 'G']
+1 sDNC_score (100): [238] - 80
+2 sDNC_score (100): [238, 484] - 89
+final sDNC: [238: 'G', 484: 'G']
+
+************** occultus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6408; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [259: 'C', 637: 'T']
+2 sDNC_score (100): [259, 586] - 15
+3 sDNC_score (100): [259, 586, 118] - 67
+4 sDNC_score (100): [259, 586, 118, 637] - 79
+5 sDNC_score (100): [259, 586, 118, 637, 457] - 76
+final sDNC: [118: 'T', 259: 'C', 586: 'T', 637: 'T']
+
+************** okuboi **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6008; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [370: 'C', 403: 'A']
+2 sDNC_score (100): [370, 403] - 49
+3 sDNC_score (100): [370, 403, 550] - 68
+4 sDNC_score (100): [370, 403, 550, 44] - 80
+5 sDNC_score (100): [370, 403, 550, 44, 334] - 76
+final sDNC: [44: 'G', 370: 'C', 403: 'A', 550: 'G']
+
+************** ortoni **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 322: 'A'
+pDNCs retrieved : 7446; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [322: 'A']
+1 sDNC_score (100): [322] - 80
+2 sDNC_score (100): [322, 163] - 93
+final sDNC: [163: 'A', 322: 'A']
+
+************** oscillans **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7152; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [232: 'A', 424: 'T']
+2 sDNC_score (100): [232, 709] - 65
+3 sDNC_score (100): [232, 709, 592] - 86
+4 sDNC_score (100): [232, 709, 592, 721] - 90
+final sDNC: [232: 'A', 592: 'T', 709: 'A', 721: 'C']
+
+************** ovatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7389; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [52: 'A', 685: 'C']
+2 sDNC_score (100): [685, 303] - 0
+3 sDNC_score (100): [685, 303, 421] - 0
+4 sDNC_score (100): [685, 303, 421, 397] - 83
+5 sDNC_score (100): [685, 303, 421, 397, 589] - 98
+final sDNC: [303: 'G', 397: 'C', 421: 'A', 589: 'T', 685: 'C']
+
+************** palettaris **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7342; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [280: 'T', 594: 'G']
+2 sDNC_score (100): [739, 594] - 48
+3 sDNC_score (100): [739, 594, 46] - 89
+4 sDNC_score (100): [739, 594, 46, 184] - 95
+final sDNC: [46: 'A', 184: 'G', 594: 'G', 739: 'G']
+
+************** pallidicornis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 2 - 406: 'A', 733: 'G'
+pDNCs retrieved : 5958; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [406: 'A']
+1 sDNC_score (100): [406] - 72
+2 sDNC_score (100): [406, 733] - 90
+3 sDNC_score (100): [406, 733, 628] - 97
+final sDNC: [406: 'A', 628: 'G', 733: 'G']
+
+************** pallidulus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 73: 'G', 718: 'G'
+pDNCs retrieved : 5909; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [73: 'G']
+1 sDNC_score (100): [73] - 82
+2 sDNC_score (100): [73, 718] - 96
+final sDNC: [73: 'G', 718: 'G']
+
+************** pandus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 35: 'T'
+pDNCs retrieved : 6375; Positions involved: 100; Independent pDNCs: 31
+Shortest retrieved diagnostic combination: [35: 'T']
+1 sDNC_score (100): [35] - 0
+2 sDNC_score (100): [35, 334] - 69
+3 sDNC_score (100): [35, 334, 409] - 98
+4 sDNC_score (100): [35, 334, 409, 421] - 96
+final sDNC: [35: 'T', 334: 'G', 409: 'C']
+
+************** paraniger **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2468; Positions involved: 100; Independent pDNCs: 7
+Shortest retrieved diagnostic combination: [181: 'C', 594: 'G']
+2 sDNC_score (100): [742, 562] - 69
+3 sDNC_score (100): [742, 562, 594] - 87
+4 sDNC_score (100): [742, 562, 594, 329] - 95
+final sDNC: [329: 'A', 562: 'G', 594: 'G', 742: 'G']
+
+************** pollexus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6009; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [268: 'C', 679: 'T']
+2 sDNC_score (100): [268, 679] - 0
+3 sDNC_score (100): [268, 679, 277] - 21
+4 sDNC_score (100): [268, 679, 277, 601] - 88
+5 sDNC_score (100): [268, 679, 277, 601, 211] - 89
+final sDNC: [211: 'C', 268: 'C', 277: 'T', 601: 'T', 679: 'T']
+
+************** pseudoheusdensis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 597: 'T'
+pDNCs retrieved : 5596; Positions involved: 100; Independent pDNCs: 30
+Shortest retrieved diagnostic combination: [597: 'T']
+1 sDNC_score (100): [597] - 12
+2 sDNC_score (100): [597, 652] - 81
+3 sDNC_score (100): [597, 652, 220] - 94
+final sDNC: [220: 'G', 597: 'T', 652: 'A']
+
+************** recurvatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 2 - 217: 'G', 601: 'G'
+pDNCs retrieved : 6623; Positions involved: 100; Independent pDNCs: 32
+Shortest retrieved diagnostic combination: [217: 'G']
+1 sDNC_score (100): [217] - 67
+2 sDNC_score (100): [217, 601] - 95
+3 sDNC_score (100): [217, 601, 314] - 98
+final sDNC: [217: 'G', 314: 'G', 601: 'G']
+
+************** reei **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7573; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [301: 'G', 597: 'C']
+2 sDNC_score (100): [496, 598] - 59
+3 sDNC_score (100): [496, 598, 597] - 84
+4 sDNC_score (100): [496, 598, 597, 664] - 96
+final sDNC: [496: 'C', 597: 'C', 598: 'A', 664: 'T']
+
+************** rhabdomantis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 3 - 122: 'C', 124: 'A', 604: 'A'
+pDNCs retrieved : 7009; Positions involved: 100; Independent pDNCs: 30
+Shortest retrieved diagnostic combination: [122: 'C']
+1 sDNC_score (100): [122] - 0
+2 sDNC_score (100): [122, 124] - 84
+3 sDNC_score (100): [122, 124, 604] - 95
+final sDNC: [122: 'C', 124: 'A', 604: 'A']
+
+************** shouautumnalis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 4 - 568: 'T', 671: 'A', 672: 'C', 673: 'A'
+pDNCs retrieved : 6723; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [568: 'T']
+1 sDNC_score (100): [568] - 64
+2 sDNC_score (100): [568, 671] - 91
+3 sDNC_score (100): [568, 671, 672] - 94
+final sDNC: [568: 'T', 671: 'A', 672: 'C']
+
+************** shoudigitatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 566: 'C'
+pDNCs retrieved : 6866; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [566: 'C']
+1 sDNC_score (100): [566] - 0
+2 sDNC_score (100): [566, 331] - 68
+3 sDNC_score (100): [566, 331, 70] - 95
+4 sDNC_score (100): [566, 331, 70, 436] - 93
+final sDNC: [70: 'G', 331: 'A', 566: 'C']
+
+************** signatus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5118; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [337: 'A', 730: 'C']
+2 sDNC_score (100): [733, 736] - 68
+3 sDNC_score (100): [733, 736, 734] - 76
+4 sDNC_score (100): [733, 736, 734, 739] - 91
+final sDNC: [733: 'T', 734: 'C', 736: 'T', 739: 'G']
+
+************** simantoseteus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 562: 'T'
+pDNCs retrieved : 4707; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [562: 'T']
+1 sDNC_score (100): [562] - 39
+2 sDNC_score (100): [562, 703] - 81
+3 sDNC_score (100): [562, 703, 466] - 98
+final sDNC: [466: 'A', 562: 'T', 703: 'G']
+
+************** simantoteuus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5881; Positions involved: 100; Independent pDNCs: 32
+Shortest retrieved diagnostic combination: [151: 'C', 328: 'T']
+2 sDNC_score (100): [331, 451] - 84
+3 sDNC_score (100): [331, 451, 664] - 95
+final sDNC: [331: 'A', 451: 'A', 664: 'C']
+
+************** sinuatus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6020; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [592: 'T', 721: 'A']
+2 sDNC_score (100): [385, 721] - 52
+3 sDNC_score (100): [385, 721, 165] - 87
+4 sDNC_score (100): [385, 721, 165, 382] - 92
+final sDNC: [165: 'A', 382: 'T', 385: 'A', 721: 'A']
+
+************** songi **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 311: 'C'
+pDNCs retrieved : 5418; Positions involved: 100; Independent pDNCs: 13
+Shortest retrieved diagnostic combination: [311: 'C']
+1 sDNC_score (100): [311] - 0
+2 sDNC_score (100): [311, 518] - 60
+3 sDNC_score (100): [311, 518, 499] - 77
+4 sDNC_score (100): [311, 518, 499, 277] - 86
+final sDNC: [277: 'T', 311: 'C', 499: 'A', 518: 'T']
+
+************** spadiceonotatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 6 - 45: 'C', 94: 'A', 250: 'A', 342: 'A', 514: 'G', 649: 'G'
+pDNCs retrieved : 6452; Positions involved: 100; Independent pDNCs: 32
+Shortest retrieved diagnostic combination: [45: 'C']
+1 sDNC_score (100): [45] - 81
+2 sDNC_score (100): [45, 94] - 97
+final sDNC: [45: 'C', 94: 'A']
+
+************** striatulus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 303: 'T'
+pDNCs retrieved : 6426; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [303: 'T']
+1 sDNC_score (100): [303] - 30
+2 sDNC_score (100): [303, 727] - 79
+3 sDNC_score (100): [303, 727, 112] - 94
+final sDNC: [112: 'A', 303: 'T', 727: 'A']
+
+************** sylvaticus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2274; Positions involved: 100; Independent pDNCs: 7
+Shortest retrieved diagnostic combination: [329: 'A', 679: 'A']
+2 sDNC_score (100): [329, 679] - 9
+3 sDNC_score (100): [329, 679, 391] - 25
+4 sDNC_score (100): [329, 679, 391, 415] - 83
+5 sDNC_score (100): [329, 679, 391, 415, 631] - 65
+6 sDNC_score (100): [329, 679, 391, 415, 631, 211] - 71
+7 sDNC_score (100): [329, 679, 391, 415, 631, 211, 424] - 46
+8 sDNC_score (100): [329, 679, 391, 415, 631, 211, 424, 88] - 44
+9 sDNC_score (100): [329, 679, 391, 415, 631, 211, 424, 88, 568] - 48
+10 sDNC_score (100): [329, 679, 391, 415, 631, 211, 424, 88, 568, 664] - 39
+The highest scoring sDNC: [329: 'A', 391: 'T', 415: 'G', 679: 'A']
+
+************** takahashii **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 1643; Positions involved: 100; Independent pDNCs: 4
+Shortest retrieved diagnostic combination: [463: 'T', 685: 'G']
+2 sDNC_score (100): [463, 685] - 44
+3 sDNC_score (100): [463, 685, 673] - 78
+4 sDNC_score (100): [463, 685, 673, 442] - 92
+final sDNC: [442: 'C', 463: 'T', 673: 'T', 685: 'G']
+
+************** tamaduodecimus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6943; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [574: 'A', 598: 'C']
+2 sDNC_score (100): [598, 25] - 71
+3 sDNC_score (100): [598, 25, 320] - 97
+4 sDNC_score (100): [598, 25, 320, 597] - 96
+final sDNC: [25: 'A', 320: 'A', 598: 'C']
+
+************** tamagotoi **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 6 - 127: 'C', 217: 'A', 686: 'T', 702: 'C', 716: 'A', 717: 'A'
+pDNCs retrieved : 4218; Positions involved: 100; Independent pDNCs: 38
+Shortest retrieved diagnostic combination: [127: 'C']
+1 sDNC_score (100): [127] - 0
+2 sDNC_score (100): [127, 217] - 89
+3 sDNC_score (100): [127, 217, 686] - 96
+final sDNC: [127: 'C', 217: 'A', 686: 'T']
+
+************** tamakutibasi **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6721; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [292: 'T', 454: 'C']
+2 sDNC_score (100): [74, 395] - 46
+3 sDNC_score (100): [74, 395, 25] - 79
+4 sDNC_score (100): [74, 395, 25, 112] - 97
+final sDNC: [25: 'G', 74: 'C', 112: 'A', 395: 'T']
+
+************** tamaoctavus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4022; Positions involved: 100; Independent pDNCs: 11
+Shortest retrieved diagnostic combination: [66: 'T', 148: 'T']
+2 sDNC_score (100): [608, 619] - 22
+3 sDNC_score (100): [608, 619, 199] - 68
+4 sDNC_score (100): [608, 619, 199, 66] - 93
+5 sDNC_score (100): [608, 619, 199, 66, 70] - 94
+final sDNC: [66: 'T', 70: 'A', 199: 'T', 608: 'G', 619: 'T']
+
+************** tamaundecimus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 277: 'A'
+pDNCs retrieved : 5557; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [277: 'A']
+1 sDNC_score (100): [277] - 69
+2 sDNC_score (100): [277, 193] - 91
+3 sDNC_score (100): [277, 193, 253] - 98
+final sDNC: [193: 'T', 253: 'A', 277: 'A']
+
+************** thaicus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 494: 'A', 713: 'A'
+pDNCs retrieved : 5572; Positions involved: 100; Independent pDNCs: 39
+Shortest retrieved diagnostic combination: [494: 'A']
+1 sDNC_score (100): [494] - 0
+2 sDNC_score (100): [494, 713] - 80
+3 sDNC_score (100): [494, 713, 565] - 96
+final sDNC: [494: 'A', 565: 'T', 713: 'A']
+
+************** thomasi **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 1 - 595: 'T'
+pDNCs retrieved : 3976; Positions involved: 100; Independent pDNCs: 13
+Shortest retrieved diagnostic combination: [595: 'T']
+1 sDNC_score (100): [595] - 4
+2 sDNC_score (100): [595, 352] - 55
+3 sDNC_score (100): [595, 352, 350] - 91
+4 sDNC_score (100): [595, 352, 350, 307] - 86
+final sDNC: [350: 'C', 352: 'T', 595: 'T']
+
+************** tongmuensis **************
+Sequences analyzed: 22
+single nucleotide pDNCs: 1 - 92: 'T'
+pDNCs retrieved : 2550; Positions involved: 100; Independent pDNCs: 9
+Shortest retrieved diagnostic combination: [92: 'T']
+1 sDNC_score (100): [92] - 0
+2 sDNC_score (100): [92, 646] - 15
+3 sDNC_score (100): [92, 646, 710] - 34
+4 sDNC_score (100): [92, 646, 710, 94] - 90
+5 sDNC_score (100): [92, 646, 710, 94, 682] - 91
+final sDNC: [92: 'T', 94: 'G', 646: 'T', 682: 'C', 710: 'T']
+
+************** unagiseptimus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6043; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [181: 'C', 430: 'A']
+2 sDNC_score (100): [241, 310] - 0
+3 sDNC_score (100): [241, 310, 430] - 78
+4 sDNC_score (100): [241, 310, 430, 262] - 90
+final sDNC: [241: 'A', 262: 'A', 310: 'T', 430: 'A']
+
+************** usmaensis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4541; Positions involved: 100; Independent pDNCs: 13
+Shortest retrieved diagnostic combination: [478: 'A', 554: 'G']
+2 sDNC_score (100): [280, 679] - 0
+3 sDNC_score (100): [280, 679, 703] - 67
+4 sDNC_score (100): [280, 679, 703, 331] - 90
+5 sDNC_score (100): [280, 679, 703, 331, 609] - 90
+final sDNC: [280: 'A', 331: 'G', 609: 'C', 679: 'C', 703: 'T']
+
+************** verralli **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7146; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [160: 'A', 295: 'A']
+2 sDNC_score (100): [607, 160] - 70
+3 sDNC_score (100): [607, 160, 367] - 89
+4 sDNC_score (100): [607, 160, 367, 718] - 76
+final sDNC: [160: 'A', 367: 'G', 607: 'T']
+
+************** volgensis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 257: 'T'
+pDNCs retrieved : 6294; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [257: 'T']
+1 sDNC_score (100): [257] - 0
+2 sDNC_score (100): [257, 155] - 71
+3 sDNC_score (100): [257, 155, 118] - 91
+4 sDNC_score (100): [257, 155, 118, 160] - 89
+final sDNC: [118: 'C', 155: 'C', 257: 'T']
+
+************** wangi **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 332: 'A', 333: 'A'
+pDNCs retrieved : 3904; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [332: 'A']
+1 sDNC_score (100): [332] - 0
+2 sDNC_score (100): [332, 333] - 79
+3 sDNC_score (100): [332, 333, 329] - 90
+final sDNC: [329: 'A', 332: 'A', 333: 'A']
+
+************** wirthi **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2628; Positions involved: 100; Independent pDNCs: 7
+Shortest retrieved diagnostic combination: [268: 'A', 715: 'G']
+2 sDNC_score (100): [724, 499] - 34
+3 sDNC_score (100): [724, 499, 151] - 90
+4 sDNC_score (100): [724, 499, 151, 118] - 93
+final sDNC: [118: 'A', 151: 'G', 499: 'C', 724: 'G']
+
+************** yunosecundus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 878; Positions involved: 100; Independent pDNCs: 2
+Shortest retrieved diagnostic combination: [19: 'T', 685: 'G']
+2 sDNC_score (100): [19, 685] - 17
+3 sDNC_score (100): [19, 685, 187] - 41
+4 sDNC_score (100): [19, 685, 187, 442] - 84
+5 sDNC_score (100): [19, 685, 187, 442, 34] - 90
+final sDNC: [19: 'T', 34: 'G', 187: 'A', 442: 'C', 685: 'G']
+Time of the code execution: 19237.4360001

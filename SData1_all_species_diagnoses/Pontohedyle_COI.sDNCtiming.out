@@ -1,0 +1,101 @@
+########################## PARAMETERS ######################
+input file: D:\reMOLD\Pontohedyle_COI.fas
+Coding gaps as characters: False
+Maximum undetermined nucleotides allowed: 50
+Length of the alignment: 655
+Read in 27 sequences
+query taxa: 9 - milaschewitchii, brasilensis, verrucosa, kepii, joni, neridae, wiggi, wenzli, peteryalli
+Cutoff set as: 100
+Number iterations of MolD set as: 10000
+Maximum length of raw pDNCs set as: 12
+Maximum length of refined pDNCs set as: 5
+simulated sequences up to 1 percent divergent from original ones
+Maximum number of sequences modified per clade 10
+moderate scoring of the sDNCs; threshold in two consequtive runs: 75
+
+########################### RESULTS ##########################
+
+************** milaschewitchii **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 16 - 11: 'C', 25: 'C', 58: 'T', 160: 'C', 272: 'A', 273: 'G', 319: 'T', 352: 'G', 371: 'G', 376: 'G', 397: 'A', 451: 'A', 476: 'C', 495: 'G', 496: 'G', 520: 'C'
+pDNCs retrieved : 2266; Positions involved: 100; Independent pDNCs: 57
+Shortest retrieved diagnostic combination: [11: 'C']
+1 sDNC_score (100): [11] - 41
+2 sDNC_score (100): [11, 25] - 96
+3 sDNC_score (100): [11, 25, 58] - 99
+final sDNC: [11: 'C', 25: 'C', 58: 'T']
+
+************** brasilensis **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 45 - 4: 'G', 16: 'C', 40: 'C', 44: 'G', 46: 'G', 68: 'G', 97: 'C', 101: 'C', 102: 'C', 167: 'G', 169: 'C', 170: 'T', 197: 'A', 202: 'G', 217: 'A', 227: 'G', 228: 'C', 239: 'T', 272: 'G', 287: 'A', 295: 'G', 310: 'C', 332: 'T', 357: 'A', 358: 'G', 365: 'T', 372: 'T', 387: 'C', 434: 'G', 456: 'G', 457: 'G', 467: 'G', 482: 'T', 483: 'G', 497: 'C', 499: 'T', 512: 'T', 518: 'A', 529: 'A', 535: 'G', 542: 'T', 543: 'C', 566: 'C', 619: 'G', 635: 'G'
+pDNCs retrieved : 1017; Positions involved: 100; Independent pDNCs: 69
+Shortest retrieved diagnostic combination: [4: 'G']
+1 sDNC_score (100): [4] - 63
+2 sDNC_score (100): [4, 16] - 91
+3 sDNC_score (100): [4, 16, 40] - 99
+final sDNC: [4: 'G', 16: 'C', 40: 'C']
+
+************** verrucosa **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 5 - 118: 'A', 343: 'G', 367: 'C', 421: 'A', 451: 'C'
+pDNCs retrieved : 2922; Positions involved: 100; Independent pDNCs: 48
+Shortest retrieved diagnostic combination: [118: 'A']
+1 sDNC_score (100): [118] - 70
+2 sDNC_score (100): [118, 343] - 92
+3 sDNC_score (100): [118, 343, 367] - 99
+final sDNC: [118: 'A', 343: 'G', 367: 'C']
+
+************** kepii **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 13 - 49: 'A', 79: 'T', 118: 'C', 148: 'C', 160: 'A', 193: 'G', 292: 'G', 331: 'G', 466: 'T', 494: 'G', 583: 'G', 628: 'A', 638: 'C'
+pDNCs retrieved : 2408; Positions involved: 100; Independent pDNCs: 54
+Shortest retrieved diagnostic combination: [49: 'A']
+1 sDNC_score (100): [49] - 93
+2 sDNC_score (100): [49, 79] - 98
+final sDNC: [49: 'A', 79: 'T']
+
+************** joni **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 10 - 31: 'A', 85: 'G', 160: 'G', 283: 'G', 298: 'G', 451: 'G', 523: 'C', 526: 'A', 578: 'C', 580: 'T'
+pDNCs retrieved : 2642; Positions involved: 100; Independent pDNCs: 50
+Shortest retrieved diagnostic combination: [31: 'A']
+1 sDNC_score (100): [31] - 77
+2 sDNC_score (100): [31, 85] - 99
+final sDNC: [31: 'A', 85: 'G']
+
+************** neridae **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 13 - 46: 'C', 151: 'C', 169: 'G', 220: 'A', 277: 'C', 278: 'T', 289: 'T', 391: 'C', 397: 'G', 421: 'C', 479: 'T', 505: 'A', 601: 'C'
+pDNCs retrieved : 2430; Positions involved: 100; Independent pDNCs: 55
+Shortest retrieved diagnostic combination: [46: 'C']
+1 sDNC_score (100): [46] - 84
+2 sDNC_score (100): [46, 151] - 97
+final sDNC: [46: 'C', 151: 'C']
+
+************** wiggi **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 3 - 127: 'C', 325: 'A', 583: 'C'
+pDNCs retrieved : 2877; Positions involved: 100; Independent pDNCs: 49
+Shortest retrieved diagnostic combination: [127: 'C']
+1 sDNC_score (100): [127] - 88
+2 sDNC_score (100): [127, 325] - 98
+final sDNC: [127: 'C', 325: 'A']
+
+************** wenzli **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 7 - 181: 'A', 218: 'G', 219: 'T', 296: 'T', 383: 'C', 430: 'T', 593: 'A'
+pDNCs retrieved : 3130; Positions involved: 100; Independent pDNCs: 46
+Shortest retrieved diagnostic combination: [181: 'A']
+1 sDNC_score (100): [181] - 87
+2 sDNC_score (100): [181, 218] - 93
+final sDNC: [181: 'A', 218: 'G']
+
+************** peteryalli **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 39 - 14: 'T', 23: 'A', 48: 'C', 68: 'A', 76: 'C', 81: 'T', 83: 'A', 95: 'T', 101: 'A', 102: 'G', 140: 'A', 141: 'C', 167: 'A', 187: 'C', 209: 'C', 232: 'C', 280: 'A', 286: 'C', 293: 'A', 294: 'G', 357: 'C', 358: 'A', 361: 'A', 365: 'A', 373: 'A', 433: 'C', 448: 'G', 467: 'A', 468: 'T', 487: 'T', 503: 'T', 504: 'G', 512: 'A', 535: 'C', 556: 'C', 574: 'A', 586: 'C', 628: 'C', 634: 'C'
+pDNCs retrieved : 1474; Positions involved: 100; Independent pDNCs: 69
+Shortest retrieved diagnostic combination: [14: 'T']
+1 sDNC_score (100): [14] - 89
+2 sDNC_score (100): [14, 23] - 100
+final sDNC: [14: 'T', 23: 'A']
+Time of the code execution: 91.9380002022

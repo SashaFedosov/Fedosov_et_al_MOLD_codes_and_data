@@ -1,0 +1,1843 @@
+########################## PARAMETERS ######################
+input file: D:\reMOLD\Conus_united_COI_657.fas
+Coding gaps as characters: False
+Maximum undetermined nucleotides allowed: 50
+Length of the alignment: 657
+Read in 1511 sequences
+query taxa: 187 - Conus_acutangulus, Conus_adamsonii, Conus_aff_vexillum, Conus_alconnelli, Conus_amadis, Conus_ammiralis, Conus_andremenezi, Conus_anemone, Conus_anemone1, Conus_arangoi, Conus_arenatus, Conus_arenatus_aequipunctatus, Conus_arenatus_bizona, Conus_aristophanes, Conus_augur, Conus_aulicus, Conus_australis, Conus_australis1, Conus_australis2, Conus_balerensis_nsp, Conus_balteatus, Conus_betulinus, Conus_biliosus_meyeri, Conus_boeticus, Conus_boeticus1, Conus_brunneus, Conus_bruuni, Conus_bullatus, Conus_byssinus, Conus_canonicus, Conus_capitanellus, Conus_catus, Conus_cedonulli, Conus_chaldaeus, Conus_chiangi, Conus_circumcisus, Conus_cocceus, Conus_coelinae, Conus_coffeae, Conus_colombi, Conus_conco, Conus_consors, Conus_corallinus, Conus_coronatus, Conus_cuvieri, Conus_darkini, Conus_daucus, Conus_distans, Conus_dorreensis, Conus_ebraeus, Conus_eburneus, Conus_emaciatus, Conus_episcopatus, Conus_ermineus, Conus_excelsus, Conus_ferrugineus, Conus_figulinus, Conus_fijisulcatus, Conus_flavidus, Conus_floccatus, Conus_floridulus, Conus_frigidus, Conus_fumigatus, Conus_furvus, Conus_gauguini, Conus_generalis, Conus_geographus, Conus_gigasulcatus, Conus_gladiator, Conus_glans, Conus_gloriamaris, Conus_gondwanensis, Conus_granum, Conus_guanche_cf, Conus_gubernator, Conus_hamamotoi, Conus_hirasei, Conus_hughmorrisoni, Conus_hybridus, Conus_imperialis, Conus_imperialis_fuscatus, Conus_janus, Conus_judaeus, Conus_kermadecensis, Conus_kintoki, Conus_klemae, Conus_laterculatus, Conus_legatus, Conus_lenavati, Conus_leopardus, Conus_limpalaeri_nsp, Conus_litoglyphus, Conus_litoglyphus1, Conus_litteratus, Conus_lividus, Conus_lozeti, Conus_luciae, Conus_madecassinus, Conus_magellanicus, Conus_magnificus, Conus_magus_metcalfii, Conus_maldivus, Conus_marchionatus, Conus_marmoreus, Conus_mazzolii, Conus_mcbridei, Conus_medoci, Conus_mercator, Conus_miles, Conus_miliaris, Conus_miniexcelsus, Conus_moluccensis, Conus_monachus, Conus_moncuri, Conus_moreleti, Conus_mucronatus, Conus_muriculatus, Conus_mus, Conus_musicus, Conus_mustelinus, Conus_namocanus, Conus_nimbosus, Conus_nobilis_victor, Conus_novaehollandiae, Conus_nussatella, Conus_nux, Conus_obscurus, Conus_ochroleucus_tmetus, Conus_parius, Conus_parvatus, Conus_pennaceus, Conus_pergrandis, Conus_pertusus, Conus_plinthis, Conus_praecellens, Conus_proximus, Conus_pseudimperialis, Conus_pulicarius_vautieri, Conus_purpurascens, Conus_queenslandis, Conus_quercinus, Conus_radiatus, Conus_rattus, Conus_regius, Conus_retifer, Conus_rolani, Conus_sanderi, Conus_sanderi_cf, Conus_sanguinolentus, Conus_sazanka, Conus_simonis, Conus_sp, Conus_sp1, Conus_sp2, Conus_sponsalis, Conus_spurius, Conus_stercusmuscarum, Conus_striatellus, Conus_striatus, Conus_striolatus, Conus_stupa, Conus_sugimotonis, Conus_sugimotonis1, Conus_sulcatus, Conus_sulcatus_bocki, Conus_sulcatus_brettinghami, Conus_sulcatus_samiae, Conus_sulcatus_samiae1, Conus_sutanorcum, Conus_tabidus, Conus_terebra, Conus_tessulatus, Conus_textile, Conus_tribblei, Conus_troendlei, Conus_tulipa, Conus_variegatus, Conus_varius, Conus_ventricosus, Conus_vexillum, Conus_victoriae, Conus_villepinii, Conus_villepinii2, Conus_viola, Conus_virgo, Conus_virgo1, Conus_voluminalis, Conus_white_rolani_nsp, Conus_zeylanicus
+Cutoff set as: 100
+Number iterations of MolD set as: 10000
+Maximum length of raw pDNCs set as: 12
+Maximum length of refined pDNCs set as: 5
+simulated sequences up to 1 percent divergent from original ones
+Maximum number of sequences modified per clade 10
+moderate scoring of the sDNCs; threshold in two consequtive runs: 75
+
+########################### RESULTS ##########################
+
+************** Conus_acutangulus **************
+Sequences analyzed: 22
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7606; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [126: 'G', 603: 'A']
+2 sDNC_score (100): [603, 324] - 89
+3 sDNC_score (100): [603, 324, 6] - 95
+final sDNC: [6: 'T', 324: 'C', 603: 'A']
+
+************** Conus_adamsonii **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8120; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [57: 'C', 303: 'G']
+2 sDNC_score (100): [57, 408] - 79
+3 sDNC_score (100): [57, 408, 636] - 95
+final sDNC: [57: 'C', 408: 'A', 636: 'C']
+
+************** Conus_aff_vexillum **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 13 - 38: 'A', 43: 'C', 66: 'G', 67: 'A', 98: 'A', 205: 'A', 282: 'T', 301: 'T', 356: 'T', 358: 'A', 367: 'T', 469: 'A', 639: 'A'
+pDNCs retrieved : 6496; Positions involved: 100; Independent pDNCs: 40
+Shortest retrieved diagnostic combination: [38: 'A']
+1 sDNC_score (100): [38] - 0
+2 sDNC_score (100): [38, 43] - 68
+3 sDNC_score (100): [38, 43, 66] - 97
+4 sDNC_score (100): [38, 43, 66, 67] - 97
+final sDNC: [38: 'A', 43: 'C', 66: 'G', 67: 'A']
+
+************** Conus_alconnelli **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8112; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [438: 'G', 621: 'G']
+2 sDNC_score (100): [477, 621] - 72
+3 sDNC_score (100): [477, 621, 207] - 82
+4 sDNC_score (100): [477, 621, 207, 585] - 98
+final sDNC: [207: 'T', 477: 'T', 585: 'C', 621: 'G']
+
+************** Conus_amadis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 217: 'T'
+pDNCs retrieved : 8103; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [217: 'T']
+1 sDNC_score (100): [217] - 0
+2 sDNC_score (100): [217, 60] - 83
+3 sDNC_score (100): [217, 60, 570] - 93
+final sDNC: [60: 'T', 217: 'T', 570: 'C']
+
+************** Conus_ammiralis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7052; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [162: 'T', 324: 'G']
+2 sDNC_score (100): [162, 324] - 49
+3 sDNC_score (100): [162, 324, 270] - 88
+4 sDNC_score (100): [162, 324, 270, 267] - 90
+final sDNC: [162: 'T', 267: 'G', 270: 'G', 324: 'G']
+
+************** Conus_andremenezi **************
+Sequences analyzed: 13
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6473; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [387: 'T', 573: 'A']
+2 sDNC_score (100): [399, 219] - 67
+3 sDNC_score (100): [399, 219, 387] - 93
+4 sDNC_score (100): [399, 219, 387, 198] - 98
+final sDNC: [198: 'T', 219: 'A', 387: 'T', 399: 'C']
+
+************** Conus_anemone **************
+Sequences analyzed: 17
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7243; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [288: 'C', 417: 'C']
+2 sDNC_score (100): [417, 402] - 80
+3 sDNC_score (100): [417, 402, 603] - 95
+final sDNC: [402: 'C', 417: 'C', 603: 'G']
+
+************** Conus_anemone1 **************
+Sequences analyzed: 12
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6410; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [91: 'T', 477: 'T']
+2 sDNC_score (100): [606, 603] - 79
+3 sDNC_score (100): [606, 603, 477] - 98
+final sDNC: [477: 'T', 603: 'A', 606: 'G']
+
+************** Conus_arangoi **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 516: 'C'
+pDNCs retrieved : 7328; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [516: 'C']
+1 sDNC_score (100): [516] - 79
+2 sDNC_score (100): [516, 327] - 97
+final sDNC: [327: 'C', 516: 'C']
+
+************** Conus_arenatus **************
+Sequences analyzed: 16
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7217; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [240: 'G', 286: 'T']
+2 sDNC_score (100): [621, 240] - 49
+3 sDNC_score (100): [621, 240, 286] - 83
+4 sDNC_score (100): [621, 240, 286, 606] - 95
+final sDNC: [240: 'G', 286: 'T', 606: 'C', 621: 'C']
+
+************** Conus_arenatus_aequipunctatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8014; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [330: 'G', 621: 'C']
+2 sDNC_score (100): [621, 495] - 77
+3 sDNC_score (100): [621, 495, 243] - 93
+final sDNC: [243: 'G', 495: 'G', 621: 'C']
+
+************** Conus_arenatus_bizona **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8172; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [45: 'C', 279: 'C']
+2 sDNC_score (100): [114, 621] - 52
+3 sDNC_score (100): [114, 621, 640] - 87
+4 sDNC_score (100): [114, 621, 640, 45] - 86
+final sDNC: [114: 'C', 621: 'C', 640: 'C']
+
+************** Conus_aristophanes **************
+Sequences analyzed: 8
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4425; Positions involved: 100; Independent pDNCs: 12
+Shortest retrieved diagnostic combination: [462: 'C', 603: 'G']
+2 sDNC_score (100): [603, 462] - 36
+3 sDNC_score (100): [603, 462, 465] - 82
+4 sDNC_score (100): [603, 462, 465, 564] - 92
+final sDNC: [462: 'C', 465: 'G', 564: 'G', 603: 'G']
+
+************** Conus_augur **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7659; Positions involved: 100; Independent pDNCs: 29
+Shortest retrieved diagnostic combination: [6: 'A', 57: 'T']
+2 sDNC_score (100): [57, 324] - 87
+3 sDNC_score (100): [57, 324, 495] - 94
+final sDNC: [57: 'T', 324: 'C', 495: 'A']
+
+************** Conus_aulicus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8198; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [84: 'G', 315: 'T']
+2 sDNC_score (100): [84, 630] - 0
+3 sDNC_score (100): [84, 630, 135] - 67
+4 sDNC_score (100): [84, 630, 135, 99] - 99
+5 sDNC_score (100): [84, 630, 135, 99, 532] - 93
+final sDNC: [84: 'G', 99: 'T', 135: 'C', 630: 'C']
+
+************** Conus_australis **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5804; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [273: 'G', 528: 'C']
+2 sDNC_score (100): [528, 594] - 0
+3 sDNC_score (100): [528, 594, 273] - 85
+4 sDNC_score (100): [528, 594, 273, 606] - 86
+final sDNC: [273: 'G', 528: 'C', 594: 'C', 606: 'A']
+
+************** Conus_australis1 **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6726; Positions involved: 100; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [126: 'G', 273: 'G']
+2 sDNC_score (100): [96, 126] - 0
+3 sDNC_score (100): [96, 126, 273] - 67
+4 sDNC_score (100): [96, 126, 273, 606] - 91
+5 sDNC_score (100): [96, 126, 273, 606, 498] - 93
+final sDNC: [96: 'C', 126: 'G', 273: 'G', 498: 'C', 606: 'A']
+
+************** Conus_australis2 **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7645; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [273: 'G', 339: 'C']
+2 sDNC_score (100): [399, 273] - 47
+3 sDNC_score (100): [399, 273, 375] - 87
+4 sDNC_score (100): [399, 273, 375, 606] - 96
+final sDNC: [273: 'G', 375: 'C', 399: 'C', 606: 'A']
+
+************** Conus_balerensis_nsp **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7330; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [606: 'A', 630: 'G']
+2 sDNC_score (100): [630, 606] - 48
+3 sDNC_score (100): [630, 606, 84] - 72
+4 sDNC_score (100): [630, 606, 84, 273] - 72
+5 sDNC_score (100): [630, 606, 84, 273, 627] - 90
+6 sDNC_score (100): [630, 606, 84, 273, 627, 471] - 95
+final sDNC: [84: 'G', 273: 'G', 471: 'G', 606: 'A', 627: 'C', 630: 'G']
+
+************** Conus_balteatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8363; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [279: 'A', 411: 'C']
+2 sDNC_score (100): [411, 450] - 0
+3 sDNC_score (100): [411, 450, 279] - 75
+4 sDNC_score (100): [411, 450, 279, 243] - 90
+final sDNC: [243: 'G', 279: 'A', 411: 'C', 450: 'C']
+
+************** Conus_betulinus **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 1 - 336: 'C'
+pDNCs retrieved : 8384; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [336: 'C']
+1 sDNC_score (100): [336] - 93
+2 sDNC_score (100): [336, 96] - 91
+final sDNC: [96: 'G', 336: 'C']
+
+************** Conus_biliosus_meyeri **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7303; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [78: 'T', 513: 'C']
+2 sDNC_score (100): [648, 513] - 87
+3 sDNC_score (100): [648, 513, 537] - 97
+final sDNC: [513: 'C', 537: 'G', 648: 'T']
+
+************** Conus_boeticus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7925; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [51: 'G', 270: 'A']
+2 sDNC_score (100): [207, 303] - 78
+3 sDNC_score (100): [207, 303, 408] - 99
+final sDNC: [207: 'C', 303: 'C', 408: 'C']
+
+************** Conus_boeticus1 **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8053; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [264: 'A', 654: 'T']
+2 sDNC_score (100): [654, 537] - 76
+3 sDNC_score (100): [654, 537, 273] - 91
+final sDNC: [273: 'C', 537: 'A', 654: 'T']
+
+************** Conus_brunneus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7934; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [183: 'G', 270: 'G']
+2 sDNC_score (100): [138, 144] - 0
+3 sDNC_score (100): [138, 144, 453] - 87
+4 sDNC_score (100): [138, 144, 453, 270] - 99
+final sDNC: [138: 'A', 144: 'G', 270: 'G', 453: 'T']
+
+************** Conus_bruuni **************
+Sequences analyzed: 8
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7907; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [303: 'G', 345: 'A']
+2 sDNC_score (100): [606, 39] - 71
+3 sDNC_score (100): [606, 39, 399] - 90
+4 sDNC_score (100): [606, 39, 399, 345] - 96
+final sDNC: [39: 'A', 345: 'A', 399: 'C', 606: 'A']
+
+************** Conus_bullatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7631; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [432: 'T', 477: 'G']
+2 sDNC_score (100): [180, 57] - 81
+3 sDNC_score (100): [180, 57, 528] - 98
+final sDNC: [57: 'C', 180: 'C', 528: 'A']
+
+************** Conus_byssinus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7739; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [222: 'G', 270: 'C']
+2 sDNC_score (100): [393, 270] - 2
+3 sDNC_score (100): [393, 270, 222] - 90
+4 sDNC_score (100): [393, 270, 222, 303] - 90
+final sDNC: [222: 'G', 270: 'C', 303: 'G', 393: 'C']
+
+************** Conus_canonicus **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7728; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [270: 'G', 306: 'T']
+2 sDNC_score (100): [96, 306] - 0
+3 sDNC_score (100): [96, 306, 270] - 73
+4 sDNC_score (100): [96, 306, 270, 363] - 95
+5 sDNC_score (100): [96, 306, 270, 363, 372] - 96
+final sDNC: [96: 'A', 270: 'G', 306: 'T', 363: 'G', 372: 'C']
+
+************** Conus_capitanellus **************
+Sequences analyzed: 46
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7476; Positions involved: 100; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [288: 'A', 303: 'G']
+2 sDNC_score (100): [288, 528] - 0
+3 sDNC_score (100): [288, 528, 123] - 65
+4 sDNC_score (100): [288, 528, 123, 286] - 82
+5 sDNC_score (100): [288, 528, 123, 286, 303] - 94
+final sDNC: [123: 'C', 286: 'T', 288: 'A', 303: 'G', 528: 'C']
+
+************** Conus_catus **************
+Sequences analyzed: 9
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7146; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [39: 'A', 618: 'T']
+2 sDNC_score (100): [39, 390] - 33
+3 sDNC_score (100): [39, 390, 349] - 72
+4 sDNC_score (100): [39, 390, 349, 348] - 93
+5 sDNC_score (100): [39, 390, 349, 348, 618] - 95
+final sDNC: [39: 'A', 348: 'T', 349: 'T', 390: 'G', 618: 'T']
+
+************** Conus_cedonulli **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7888; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [87: 'G', 270: 'A']
+2 sDNC_score (100): [138, 144] - 89
+3 sDNC_score (100): [138, 144, 222] - 88
+final sDNC: [138: 'G', 144: 'G', 222: 'T']
+
+************** Conus_chaldaeus **************
+Sequences analyzed: 108
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6523; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [349: 'T', 636: 'G']
+2 sDNC_score (100): [636, 93] - 77
+3 sDNC_score (100): [636, 93, 96] - 94
+final sDNC: [93: 'C', 96: 'G', 636: 'G']
+
+************** Conus_chiangi **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8158; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [144: 'A', 228: 'A']
+2 sDNC_score (100): [495, 138] - 0
+3 sDNC_score (100): [495, 138, 381] - 0
+4 sDNC_score (100): [495, 138, 381, 450] - 0
+5 sDNC_score (100): [495, 138, 381, 450, 270] - 87
+6 sDNC_score (100): [495, 138, 381, 450, 270, 318] - 94
+final sDNC: [138: 'A', 270: 'A', 318: 'T', 381: 'T', 450: 'A', 495: 'G']
+
+************** Conus_circumcisus **************
+Sequences analyzed: 10
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 986; Positions involved: 100; Independent pDNCs: 2
+Shortest retrieved diagnostic combination: [84: 'A', 444: 'C', 547: 'C']
+3 sDNC_score (100): [444, 339, 546] - 38
+4 sDNC_score (100): [444, 339, 546, 312] - 82
+5 sDNC_score (100): [444, 339, 546, 312, 13] - 85
+final sDNC: [13: 'C', 312: 'A', 339: 'C', 444: 'C', 546: 'C']
+
+************** Conus_cocceus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7646; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [87: 'C', 639: 'C']
+2 sDNC_score (100): [87, 606] - 0
+3 sDNC_score (100): [87, 606, 582] - 80
+4 sDNC_score (100): [87, 606, 582, 30] - 95
+final sDNC: [30: 'G', 87: 'C', 582: 'T', 606: 'A']
+
+************** Conus_coelinae **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 582: 'C'
+pDNCs retrieved : 7921; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [582: 'C']
+1 sDNC_score (100): [582] - 90
+2 sDNC_score (100): [582, 624] - 90
+final sDNC: [582: 'C', 624: 'T']
+
+************** Conus_coffeae **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7841; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [21: 'T', 525: 'T']
+2 sDNC_score (100): [513, 552] - 75
+3 sDNC_score (100): [513, 552, 144] - 84
+final sDNC: [144: 'A', 513: 'C', 552: 'A']
+
+************** Conus_colombi **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6757; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [525: 'T', 555: 'C']
+2 sDNC_score (100): [555, 493] - 34
+3 sDNC_score (100): [555, 493, 612] - 80
+4 sDNC_score (100): [555, 493, 612, 498] - 96
+final sDNC: [493: 'T', 498: 'C', 555: 'C', 612: 'C']
+
+************** Conus_conco **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6046; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [162: 'T', 495: 'C']
+2 sDNC_score (100): [390, 99] - 80
+3 sDNC_score (100): [390, 99, 78] - 97
+final sDNC: [78: 'C', 99: 'C', 390: 'C']
+
+************** Conus_consors **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6261; Positions involved: 100; Independent pDNCs: 13
+Shortest retrieved diagnostic combination: [3: 'C', 312: 'G']
+2 sDNC_score (100): [10, 3] - 2
+3 sDNC_score (100): [10, 3, 237] - 88
+4 sDNC_score (100): [10, 3, 237, 348] - 96
+final sDNC: [3: 'C', 10: 'T', 237: 'C', 348: 'T']
+
+************** Conus_corallinus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 468: 'T'
+pDNCs retrieved : 5859; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [468: 'T']
+1 sDNC_score (100): [468] - 75
+2 sDNC_score (100): [468, 426] - 93
+final sDNC: [426: 'C', 468: 'T']
+
+************** Conus_coronatus **************
+Sequences analyzed: 32
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7367; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [324: 'T', 363: 'G']
+2 sDNC_score (100): [435, 555] - 11
+3 sDNC_score (100): [435, 555, 63] - 76
+4 sDNC_score (100): [435, 555, 63, 324] - 98
+final sDNC: [63: 'C', 324: 'T', 435: 'T', 555: 'C']
+
+************** Conus_cuvieri **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7706; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [507: 'G', 520: 'G']
+2 sDNC_score (100): [216, 520] - 84
+3 sDNC_score (100): [216, 520, 406] - 92
+final sDNC: [216: 'C', 406: 'T', 520: 'G']
+
+************** Conus_darkini **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6397; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [177: 'C', 300: 'C']
+2 sDNC_score (100): [507, 360] - 81
+3 sDNC_score (100): [507, 360, 177] - 90
+final sDNC: [177: 'C', 360: 'C', 507: 'C']
+
+************** Conus_daucus **************
+Sequences analyzed: 18
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2855; Positions involved: 100; Independent pDNCs: 8
+Shortest retrieved diagnostic combination: [474: 'G', 495: 'A', 522: 'C']
+3 sDNC_score (100): [474, 135, 493] - 52
+4 sDNC_score (100): [474, 135, 493, 48] - 82
+5 sDNC_score (100): [474, 135, 493, 48, 579] - 90
+final sDNC: [48: 'A', 135: 'C', 474: 'G', 493: 'T', 579: 'A']
+
+************** Conus_distans **************
+Sequences analyzed: 14
+single nucleotide pDNCs: 1 - 36: 'T'
+pDNCs retrieved : 6130; Positions involved: 100; Independent pDNCs: 31
+Shortest retrieved diagnostic combination: [36: 'T']
+1 sDNC_score (100): [36] - 64
+2 sDNC_score (100): [36, 255] - 94
+3 sDNC_score (100): [36, 255, 438] - 93
+final sDNC: [36: 'T', 255: 'G']
+
+************** Conus_dorreensis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8341; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [33: 'C', 351: 'G']
+2 sDNC_score (100): [129, 294] - 77
+3 sDNC_score (100): [129, 294, 351] - 92
+final sDNC: [129: 'T', 294: 'C', 351: 'G']
+
+************** Conus_ebraeus **************
+Sequences analyzed: 124
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6582; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [573: 'G', 582: 'G']
+2 sDNC_score (100): [573, 585] - 62
+3 sDNC_score (100): [573, 585, 300] - 88
+4 sDNC_score (100): [573, 585, 300, 549] - 94
+final sDNC: [300: 'C', 549: 'T', 573: 'G', 585: 'A']
+
+************** Conus_eburneus **************
+Sequences analyzed: 14
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6992; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [273: 'C', 630: 'A']
+2 sDNC_score (100): [273, 285] - 23
+3 sDNC_score (100): [273, 285, 222] - 76
+4 sDNC_score (100): [273, 285, 222, 630] - 91
+final sDNC: [222: 'T', 273: 'C', 285: 'C', 630: 'A']
+
+************** Conus_emaciatus **************
+Sequences analyzed: 11
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6275; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [87: 'C', 396: 'C']
+2 sDNC_score (100): [546, 315] - 82
+3 sDNC_score (100): [546, 315, 87] - 98
+final sDNC: [87: 'C', 315: 'C', 546: 'A']
+
+************** Conus_episcopatus **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7394; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [49: 'C', 624: 'C']
+2 sDNC_score (100): [624, 45] - 32
+3 sDNC_score (100): [624, 45, 532] - 89
+4 sDNC_score (100): [624, 45, 532, 420] - 93
+final sDNC: [45: 'A', 420: 'A', 532: 'C', 624: 'C']
+
+************** Conus_ermineus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 435: 'C', 546: 'G'
+pDNCs retrieved : 7735; Positions involved: 100; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [435: 'C']
+1 sDNC_score (100): [435] - 90
+2 sDNC_score (100): [435, 546] - 99
+final sDNC: [435: 'C', 546: 'G']
+
+************** Conus_excelsus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 159: 'T'
+pDNCs retrieved : 7285; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [159: 'T']
+1 sDNC_score (100): [159] - 93
+2 sDNC_score (100): [159, 57] - 92
+final sDNC: [57: 'C', 159: 'T']
+
+************** Conus_ferrugineus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 1 - 381: 'C'
+pDNCs retrieved : 7912; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [381: 'C']
+1 sDNC_score (100): [381] - 77
+2 sDNC_score (100): [381, 537] - 94
+final sDNC: [381: 'C', 537: 'G']
+
+************** Conus_figulinus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8696; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [78: 'G', 354: 'T']
+2 sDNC_score (100): [354, 387] - 73
+3 sDNC_score (100): [354, 387, 288] - 90
+4 sDNC_score (100): [354, 387, 288, 123] - 95
+final sDNC: [123: 'C', 288: 'C', 354: 'T', 387: 'T']
+
+************** Conus_fijisulcatus **************
+Sequences analyzed: 26
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6487; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [513: 'G', 535: 'T']
+2 sDNC_score (100): [345, 513] - 0
+3 sDNC_score (100): [345, 513, 535] - 57
+4 sDNC_score (100): [345, 513, 535, 84] - 95
+5 sDNC_score (100): [345, 513, 535, 84, 45] - 92
+final sDNC: [84: 'G', 345: 'A', 513: 'G', 535: 'T']
+
+************** Conus_flavidus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7730; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [406: 'T', 633: 'C']
+2 sDNC_score (100): [408, 654] - 83
+3 sDNC_score (100): [408, 654, 168] - 89
+final sDNC: [168: 'A', 408: 'G', 654: 'C']
+
+************** Conus_floccatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 463: 'G'
+pDNCs retrieved : 8218; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [463: 'G']
+1 sDNC_score (100): [463] - 0
+2 sDNC_score (100): [463, 540] - 39
+3 sDNC_score (100): [463, 540, 39] - 86
+4 sDNC_score (100): [463, 540, 39, 387] - 94
+final sDNC: [39: 'A', 387: 'T', 463: 'G', 540: 'C']
+
+************** Conus_floridulus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7751; Positions involved: 100; Independent pDNCs: 29
+Shortest retrieved diagnostic combination: [234: 'C', 603: 'G']
+2 sDNC_score (100): [99, 603] - 80
+3 sDNC_score (100): [99, 603, 33] - 91
+final sDNC: [33: 'C', 99: 'C', 603: 'G']
+
+************** Conus_frigidus **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7543; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [406: 'T', 654: 'G']
+2 sDNC_score (100): [406, 408] - 0
+3 sDNC_score (100): [406, 408, 123] - 79
+4 sDNC_score (100): [406, 408, 123, 18] - 95
+final sDNC: [18: 'C', 123: 'C', 406: 'T', 408: 'G']
+
+************** Conus_fumigatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 482: 'G'
+pDNCs retrieved : 7722; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [482: 'G']
+1 sDNC_score (100): [482] - 0
+2 sDNC_score (100): [482, 621] - 67
+3 sDNC_score (100): [482, 621, 579] - 89
+4 sDNC_score (100): [482, 621, 579, 402] - 98
+final sDNC: [402: 'C', 482: 'G', 579: 'A', 621: 'C']
+
+************** Conus_furvus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7748; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [219: 'A', 318: 'A']
+2 sDNC_score (100): [219, 51] - 69
+3 sDNC_score (100): [219, 51, 426] - 96
+4 sDNC_score (100): [219, 51, 426, 540] - 98
+final sDNC: [51: 'T', 219: 'A', 426: 'C', 540: 'C']
+
+************** Conus_gauguini **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 727; Positions involved: 100; Independent pDNCs: 0
+Shortest retrieved diagnostic combination: [123: 'C', 405: 'C']
+2 sDNC_score (100): [123, 405] - 1
+3 sDNC_score (100): [123, 405, 531] - 41
+4 sDNC_score (100): [123, 405, 531, 39] - 55
+5 sDNC_score (100): [123, 405, 531, 39, 522] - 72
+6 sDNC_score (100): [123, 405, 531, 39, 522, 528] - 75
+7 sDNC_score (100): [123, 405, 531, 39, 522, 528, 654] - 77
+final sDNC: [39: 'A', 123: 'C', 405: 'C', 522: 'C', 528: 'G', 531: 'C', 654: 'T']
+
+************** Conus_generalis **************
+Sequences analyzed: 10
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7984; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [84: 'T', 273: 'A']
+2 sDNC_score (100): [273, 492] - 81
+3 sDNC_score (100): [273, 492, 381] - 94
+final sDNC: [273: 'A', 381: 'T', 492: 'A']
+
+************** Conus_geographus **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7105; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [276: 'C', 577: 'T']
+2 sDNC_score (100): [276, 198] - 74
+3 sDNC_score (100): [276, 198, 408] - 80
+4 sDNC_score (100): [276, 198, 408, 420] - 94
+final sDNC: [198: 'T', 276: 'C', 408: 'A', 420: 'A']
+
+************** Conus_gigasulcatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7367; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [168: 'G', 291: 'G']
+2 sDNC_score (100): [168, 603] - 84
+3 sDNC_score (100): [168, 603, 537] - 98
+final sDNC: [168: 'G', 537: 'A', 603: 'A']
+
+************** Conus_gladiator **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7742; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [270: 'C', 492: 'G']
+2 sDNC_score (100): [66, 492] - 40
+3 sDNC_score (100): [66, 492, 363] - 62
+4 sDNC_score (100): [66, 492, 363, 516] - 97
+5 sDNC_score (100): [66, 492, 363, 516, 528] - 99
+final sDNC: [66: 'A', 363: 'G', 492: 'G', 516: 'T', 528: 'A']
+
+************** Conus_glans **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8144; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [402: 'T', 525: 'A']
+2 sDNC_score (100): [573, 450] - 57
+3 sDNC_score (100): [573, 450, 427] - 91
+4 sDNC_score (100): [573, 450, 427, 264] - 100
+final sDNC: [264: 'C', 427: 'C', 450: 'A', 573: 'G']
+
+************** Conus_gloriamaris **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8124; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [414: 'A', 556: 'C']
+2 sDNC_score (100): [552, 273] - 45
+3 sDNC_score (100): [552, 273, 522] - 90
+4 sDNC_score (100): [552, 273, 522, 414] - 99
+final sDNC: [273: 'C', 414: 'A', 522: 'C', 552: 'C']
+
+************** Conus_gondwanensis **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 1 - 369: 'G'
+pDNCs retrieved : 7780; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [369: 'G']
+1 sDNC_score (100): [369] - 81
+2 sDNC_score (100): [369, 51] - 94
+final sDNC: [51: 'T', 369: 'G']
+
+************** Conus_granum **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8044; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [90: 'C', 144: 'G']
+2 sDNC_score (100): [144, 540] - 66
+3 sDNC_score (100): [144, 540, 270] - 83
+4 sDNC_score (100): [144, 540, 270, 13] - 97
+final sDNC: [13: 'C', 144: 'G', 270: 'G', 540: 'G']
+
+************** Conus_guanche_cf **************
+Sequences analyzed: 14
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 844; Positions involved: 99; Independent pDNCs: 0
+Shortest retrieved diagnostic combination: [51: 'T', 342: 'G', 477: 'G']
+3 sDNC_score (100): [477, 51, 45] - 0
+4 sDNC_score (100): [477, 51, 45, 579] - 0
+5 sDNC_score (100): [477, 51, 45, 579, 342] - 70
+6 sDNC_score (100): [477, 51, 45, 579, 342, 216] - 74
+7 sDNC_score (100): [477, 51, 45, 579, 342, 216, 492] - 80
+8 sDNC_score (100): [477, 51, 45, 579, 342, 216, 492, 90] - 81
+final sDNC: [45: 'C', 51: 'T', 90: 'C', 216: 'A', 342: 'G', 477: 'G', 492: 'C', 579: 'C']
+
+************** Conus_gubernator **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8472; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [39: 'A', 363: 'C']
+2 sDNC_score (100): [39, 363] - 60
+3 sDNC_score (100): [39, 363, 300] - 85
+4 sDNC_score (100): [39, 363, 300, 48] - 90
+final sDNC: [39: 'A', 48: 'C', 300: 'C', 363: 'C']
+
+************** Conus_hamamotoi **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7506; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [45: 'G', 333: 'A']
+2 sDNC_score (100): [231, 288] - 92
+3 sDNC_score (100): [231, 288, 45] - 99
+final sDNC: [45: 'G', 231: 'C', 288: 'G']
+
+************** Conus_hirasei **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7766; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [111: 'T', 537: 'C']
+2 sDNC_score (100): [111, 537] - 52
+3 sDNC_score (100): [111, 537, 27] - 83
+4 sDNC_score (100): [111, 537, 27, 567] - 95
+final sDNC: [27: 'G', 111: 'T', 537: 'C', 567: 'G']
+
+************** Conus_hughmorrisoni **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7966; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [402: 'C', 534: 'G']
+2 sDNC_score (100): [520, 402] - 46
+3 sDNC_score (100): [520, 402, 33] - 84
+4 sDNC_score (100): [520, 402, 33, 264] - 96
+final sDNC: [33: 'T', 264: 'C', 402: 'C', 520: 'G']
+
+************** Conus_imperialis **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7075; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [162: 'T', 279: 'A']
+2 sDNC_score (100): [57, 168] - 78
+3 sDNC_score (100): [57, 168, 303] - 97
+final sDNC: [57: 'T', 168: 'G', 303: 'C']
+
+************** Conus_imperialis_fuscatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7784; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [138: 'G', 528: 'C']
+2 sDNC_score (100): [619, 513] - 71
+3 sDNC_score (100): [619, 513, 138] - 94
+4 sDNC_score (100): [619, 513, 138, 375] - 97
+final sDNC: [138: 'G', 375: 'C', 513: 'C', 619: 'C']
+
+************** Conus_janus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7711; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [183: 'T', 606: 'G']
+2 sDNC_score (100): [606, 5] - 74
+3 sDNC_score (100): [606, 5, 201] - 94
+4 sDNC_score (100): [606, 5, 201, 582] - 97
+final sDNC: [5: 'C', 201: 'T', 582: 'T', 606: 'G']
+
+************** Conus_judaeus **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8018; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [141: 'C', 408: 'C']
+2 sDNC_score (100): [180, 408] - 78
+3 sDNC_score (100): [180, 408, 630] - 98
+final sDNC: [180: 'C', 408: 'C', 630: 'C']
+
+************** Conus_kermadecensis **************
+Sequences analyzed: 9
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7573; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [306: 'T', 390: 'C']
+2 sDNC_score (100): [390, 351] - 70
+3 sDNC_score (100): [390, 351, 552] - 98
+4 sDNC_score (100): [390, 351, 552, 507] - 99
+final sDNC: [351: 'C', 390: 'C', 507: 'C', 552: 'C']
+
+************** Conus_kintoki **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7148; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [582: 'T', 630: 'C']
+2 sDNC_score (100): [69, 630] - 81
+3 sDNC_score (100): [69, 630, 528] - 92
+final sDNC: [69: 'C', 528: 'A', 630: 'C']
+
+************** Conus_klemae **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8147; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [111: 'C', 162: 'A']
+2 sDNC_score (100): [111, 270] - 87
+3 sDNC_score (100): [111, 270, 114] - 95
+final sDNC: [111: 'C', 114: 'C', 270: 'A']
+
+************** Conus_laterculatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7593; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [312: 'A', 606: 'A']
+2 sDNC_score (100): [420, 351] - 0
+3 sDNC_score (100): [420, 351, 273] - 89
+4 sDNC_score (100): [420, 351, 273, 312] - 94
+final sDNC: [273: 'G', 312: 'A', 351: 'C', 420: 'C']
+
+************** Conus_legatus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8349; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [108: 'A', 303: 'C']
+2 sDNC_score (100): [303, 300] - 77
+3 sDNC_score (100): [303, 300, 450] - 91
+final sDNC: [300: 'A', 303: 'C', 450: 'C']
+
+************** Conus_lenavati **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7818; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [30: 'G', 414: 'A']
+2 sDNC_score (100): [564, 630] - 0
+3 sDNC_score (100): [564, 630, 162] - 86
+4 sDNC_score (100): [564, 630, 162, 477] - 96
+final sDNC: [162: 'T', 477: 'T', 564: 'C', 630: 'C']
+
+************** Conus_leopardus **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8052; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [93: 'T', 453: 'T']
+2 sDNC_score (100): [318, 453] - 82
+3 sDNC_score (100): [318, 453, 327] - 99
+final sDNC: [318: 'C', 327: 'T', 453: 'T']
+
+************** Conus_limpalaeri_nsp **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7907; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [189: 'T', 207: 'T']
+2 sDNC_score (100): [96, 399] - 58
+3 sDNC_score (100): [96, 399, 54] - 97
+4 sDNC_score (100): [96, 399, 54, 94] - 96
+final sDNC: [54: 'C', 96: 'G', 399: 'C']
+
+************** Conus_litoglyphus **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7103; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [495: 'G', 597: 'C']
+2 sDNC_score (100): [630, 138] - 54
+3 sDNC_score (100): [630, 138, 621] - 86
+4 sDNC_score (100): [630, 138, 621, 90] - 98
+final sDNC: [90: 'G', 138: 'A', 621: 'G', 630: 'G']
+
+************** Conus_litoglyphus1 **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7012; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [204: 'C', 540: 'C']
+2 sDNC_score (100): [399, 540] - 51
+3 sDNC_score (100): [399, 540, 90] - 78
+4 sDNC_score (100): [399, 540, 90, 267] - 96
+final sDNC: [90: 'G', 267: 'A', 399: 'C', 540: 'C']
+
+************** Conus_litteratus **************
+Sequences analyzed: 8
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7856; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [336: 'T', 390: 'G']
+2 sDNC_score (100): [636, 285] - 66
+3 sDNC_score (100): [636, 285, 427] - 89
+4 sDNC_score (100): [636, 285, 427, 453] - 98
+final sDNC: [285: 'G', 427: 'C', 453: 'T', 636: 'G']
+
+************** Conus_lividus **************
+Sequences analyzed: 21
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6687; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [219: 'C', 363: 'C']
+2 sDNC_score (100): [276, 99] - 72
+3 sDNC_score (100): [276, 99, 117] - 88
+4 sDNC_score (100): [276, 99, 117, 219] - 85
+final sDNC: [99: 'T', 117: 'C', 276: 'C']
+
+************** Conus_lozeti **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8246; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [144: 'G', 363: 'A']
+2 sDNC_score (100): [144, 201] - 77
+3 sDNC_score (100): [144, 201, 516] - 90
+final sDNC: [144: 'G', 201: 'T', 516: 'T']
+
+************** Conus_luciae **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7219; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [123: 'C', 213: 'G']
+2 sDNC_score (100): [360, 6] - 0
+3 sDNC_score (100): [360, 6, 123] - 79
+4 sDNC_score (100): [360, 6, 123, 138] - 89
+final sDNC: [6: 'T', 123: 'C', 138: 'C', 360: 'C']
+
+************** Conus_madecassinus **************
+Sequences analyzed: 12
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7238; Positions involved: 100; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [417: 'G', 630: 'C']
+2 sDNC_score (100): [630, 606] - 76
+3 sDNC_score (100): [630, 606, 9] - 80
+final sDNC: [9: 'C', 606: 'A', 630: 'C']
+
+************** Conus_magellanicus **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6809; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [237: 'G', 585: 'A']
+2 sDNC_score (100): [327, 402] - 74
+3 sDNC_score (100): [327, 402, 399] - 94
+4 sDNC_score (100): [327, 402, 399, 426] - 98
+final sDNC: [327: 'T', 399: 'C', 402: 'C', 426: 'C']
+
+************** Conus_magnificus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6756; Positions involved: 100; Independent pDNCs: 17
+Shortest retrieved diagnostic combination: [120: 'A', 453: 'C']
+2 sDNC_score (100): [453, 144] - 83
+3 sDNC_score (100): [453, 144, 273] - 94
+final sDNC: [144: 'C', 273: 'C', 453: 'C']
+
+************** Conus_magus_metcalfii **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4283; Positions involved: 100; Independent pDNCs: 10
+Shortest retrieved diagnostic combination: [138: 'C', 489: 'G', 498: 'G']
+3 sDNC_score (100): [81, 30, 348] - 61
+4 sDNC_score (100): [81, 30, 348, 498] - 74
+5 sDNC_score (100): [81, 30, 348, 498, 645] - 96
+6 sDNC_score (100): [81, 30, 348, 498, 645, 39] - 94
+final sDNC: [30: 'G', 81: 'A', 348: 'T', 498: 'G', 645: 'C']
+
+************** Conus_maldivus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7864; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [381: 'T', 630: 'C']
+2 sDNC_score (100): [90, 630] - 75
+3 sDNC_score (100): [90, 630, 492] - 92
+final sDNC: [90: 'G', 492: 'A', 630: 'C']
+
+************** Conus_marchionatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8734; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [51: 'T', 564: 'A']
+2 sDNC_score (100): [51, 270] - 76
+3 sDNC_score (100): [51, 270, 324] - 83
+final sDNC: [51: 'T', 270: 'A', 324: 'T']
+
+************** Conus_marmoreus **************
+Sequences analyzed: 12
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6998; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [33: 'T', 345: 'A']
+2 sDNC_score (100): [51, 528] - 83
+3 sDNC_score (100): [51, 528, 297] - 96
+final sDNC: [51: 'C', 297: 'T', 528: 'A']
+
+************** Conus_mazzolii **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 348: 'C'
+pDNCs retrieved : 7480; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [348: 'C']
+1 sDNC_score (100): [348] - 93
+2 sDNC_score (100): [348, 69] - 94
+final sDNC: [69: 'C', 348: 'C']
+
+************** Conus_mcbridei **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6972; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [93: 'C', 423: 'C']
+2 sDNC_score (100): [288, 93] - 78
+3 sDNC_score (100): [288, 93, 498] - 95
+final sDNC: [93: 'C', 288: 'G', 498: 'C']
+
+************** Conus_medoci **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7712; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [315: 'T', 416: 'C']
+2 sDNC_score (100): [129, 492] - 75
+3 sDNC_score (100): [129, 492, 406] - 96
+final sDNC: [129: 'T', 406: 'T', 492: 'A']
+
+************** Conus_mercator **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5954; Positions involved: 100; Independent pDNCs: 13
+Shortest retrieved diagnostic combination: [276: 'G', 378: 'G']
+2 sDNC_score (100): [378, 51] - 75
+3 sDNC_score (100): [378, 51, 349] - 87
+final sDNC: [51: 'T', 349: 'T', 378: 'G']
+
+************** Conus_miles **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 1 - 423: 'G'
+pDNCs retrieved : 7685; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [423: 'G']
+1 sDNC_score (100): [423] - 81
+2 sDNC_score (100): [423, 99] - 88
+final sDNC: [99: 'C', 423: 'G']
+
+************** Conus_miliaris **************
+Sequences analyzed: 170
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 1811; Positions involved: 100; Independent pDNCs: 5
+Shortest retrieved diagnostic combination: [280: 'C', 540: 'G']
+2 sDNC_score (100): [280, 540] - 25
+3 sDNC_score (100): [280, 540, 573] - 70
+4 sDNC_score (100): [280, 540, 573, 375] - 83
+5 sDNC_score (100): [280, 540, 573, 375, 585] - 76
+final sDNC: [280: 'C', 375: 'G', 540: 'G', 573: 'A']
+
+************** Conus_miniexcelsus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 1 - 36: 'C'
+pDNCs retrieved : 7503; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [36: 'C']
+1 sDNC_score (100): [36] - 91
+2 sDNC_score (100): [36, 318] - 90
+final sDNC: [36: 'C', 318: 'C']
+
+************** Conus_moluccensis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7292; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [211: 'C', 438: 'T']
+2 sDNC_score (100): [438, 532] - 69
+3 sDNC_score (100): [438, 532, 286] - 85
+4 sDNC_score (100): [438, 532, 286, 288] - 96
+final sDNC: [286: 'T', 288: 'A', 438: 'T', 532: 'C']
+
+************** Conus_monachus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5787; Positions involved: 100; Independent pDNCs: 12
+Shortest retrieved diagnostic combination: [348: 'T', 504: 'C']
+2 sDNC_score (100): [504, 294] - 56
+3 sDNC_score (100): [504, 294, 348] - 68
+4 sDNC_score (100): [504, 294, 348, 39] - 82
+5 sDNC_score (100): [504, 294, 348, 39, 312] - 83
+final sDNC: [39: 'A', 294: 'C', 312: 'A', 348: 'T', 504: 'C']
+
+************** Conus_moncuri **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7861; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [264: 'G', 279: 'C']
+2 sDNC_score (100): [255, 438] - 0
+3 sDNC_score (100): [255, 438, 264] - 78
+4 sDNC_score (100): [255, 438, 264, 630] - 99
+final sDNC: [255: 'G', 264: 'G', 438: 'T', 630: 'A']
+
+************** Conus_moreleti **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7694; Positions involved: 100; Independent pDNCs: 29
+Shortest retrieved diagnostic combination: [255: 'C', 354: 'T']
+2 sDNC_score (100): [354, 408] - 0
+3 sDNC_score (100): [354, 408, 618] - 86
+4 sDNC_score (100): [354, 408, 618, 420] - 94
+final sDNC: [354: 'T', 408: 'A', 420: 'G', 618: 'C']
+
+************** Conus_mucronatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6865; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [378: 'C', 441: 'C']
+2 sDNC_score (100): [378, 570] - 84
+3 sDNC_score (100): [378, 570, 540] - 94
+final sDNC: [378: 'C', 540: 'C', 570: 'C']
+
+************** Conus_muriculatus **************
+Sequences analyzed: 13
+single nucleotide pDNCs: 1 - 291: 'T'
+pDNCs retrieved : 8144; Positions involved: 100; Independent pDNCs: 29
+Shortest retrieved diagnostic combination: [291: 'T']
+1 sDNC_score (100): [291] - 64
+2 sDNC_score (100): [291, 477] - 86
+3 sDNC_score (100): [291, 477, 93] - 96
+final sDNC: [93: 'C', 291: 'T', 477: 'T']
+
+************** Conus_mus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7326; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [277: 'T', 528: 'G']
+2 sDNC_score (100): [528, 66] - 66
+3 sDNC_score (100): [528, 66, 516] - 80
+4 sDNC_score (100): [528, 66, 516, 540] - 98
+final sDNC: [66: 'A', 516: 'T', 528: 'G', 540: 'G']
+
+************** Conus_musicus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7242; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [432: 'T', 552: 'C']
+2 sDNC_score (100): [546, 570] - 73
+3 sDNC_score (100): [546, 570, 552] - 89
+4 sDNC_score (100): [546, 570, 552, 507] - 98
+final sDNC: [507: 'T', 546: 'A', 552: 'C', 570: 'C']
+
+************** Conus_mustelinus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7970; Positions involved: 100; Independent pDNCs: 30
+Shortest retrieved diagnostic combination: [75: 'G', 300: 'G']
+2 sDNC_score (100): [573, 423] - 77
+3 sDNC_score (100): [573, 423, 420] - 91
+final sDNC: [420: 'A', 423: 'A', 573: 'G']
+
+************** Conus_namocanus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7422; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [45: 'A', 538: 'T']
+2 sDNC_score (100): [621, 570] - 51
+3 sDNC_score (100): [621, 570, 324] - 95
+4 sDNC_score (100): [621, 570, 324, 423] - 98
+final sDNC: [324: 'C', 423: 'A', 570: 'C', 621: 'T']
+
+************** Conus_nimbosus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7455; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [291: 'G', 408: 'C']
+2 sDNC_score (100): [408, 273] - 55
+3 sDNC_score (100): [408, 273, 153] - 87
+4 sDNC_score (100): [408, 273, 153, 157] - 92
+final sDNC: [153: 'C', 157: 'C', 273: 'G', 408: 'C']
+
+************** Conus_nobilis_victor **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8025; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [51: 'C', 603: 'C']
+2 sDNC_score (100): [51, 294] - 86
+3 sDNC_score (100): [51, 294, 444] - 97
+final sDNC: [51: 'C', 294: 'C', 444: 'C']
+
+************** Conus_novaehollandiae **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7046; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [519: 'G', 585: 'A']
+2 sDNC_score (100): [6, 453] - 84
+3 sDNC_score (100): [6, 453, 585] - 96
+final sDNC: [6: 'C', 453: 'T', 585: 'A']
+
+************** Conus_nussatella **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7362; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [237: 'G', 333: 'G']
+2 sDNC_score (100): [477, 399] - 70
+3 sDNC_score (100): [477, 399, 297] - 89
+4 sDNC_score (100): [477, 399, 297, 450] - 99
+final sDNC: [297: 'T', 399: 'A', 450: 'A', 477: 'T']
+
+************** Conus_nux **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6559; Positions involved: 100; Independent pDNCs: 16
+Shortest retrieved diagnostic combination: [34: 'C', 222: 'C']
+2 sDNC_score (100): [222, 420] - 87
+3 sDNC_score (100): [222, 420, 30] - 92
+final sDNC: [30: 'G', 222: 'C', 420: 'G']
+
+************** Conus_obscurus **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7497; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [303: 'C', 540: 'A']
+2 sDNC_score (100): [303, 348] - 76
+3 sDNC_score (100): [303, 348, 99] - 96
+final sDNC: [99: 'T', 303: 'C', 348: 'T']
+
+************** Conus_ochroleucus_tmetus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7487; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [204: 'G', 507: 'C']
+2 sDNC_score (100): [507, 447] - 0
+3 sDNC_score (100): [507, 447, 606] - 59
+4 sDNC_score (100): [507, 447, 606, 45] - 74
+5 sDNC_score (100): [507, 447, 606, 45, 84] - 90
+6 sDNC_score (100): [507, 447, 606, 45, 84, 636] - 92
+final sDNC: [45: 'G', 84: 'G', 447: 'C', 507: 'C', 606: 'A', 636: 'A']
+
+************** Conus_parius **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7617; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [249: 'C', 606: 'A']
+2 sDNC_score (100): [111, 129] - 83
+3 sDNC_score (100): [111, 129, 273] - 97
+final sDNC: [111: 'T', 129: 'T', 273: 'G']
+
+************** Conus_parvatus **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 2 - 89: 'T', 382: 'T'
+pDNCs retrieved : 7796; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [89: 'T']
+1 sDNC_score (100): [89] - 0
+2 sDNC_score (100): [89, 382] - 85
+3 sDNC_score (100): [89, 382, 378] - 99
+final sDNC: [89: 'T', 378: 'C', 382: 'T']
+
+************** Conus_pennaceus **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7144; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [345: 'C', 416: 'C']
+2 sDNC_score (100): [273, 453] - 86
+3 sDNC_score (100): [273, 453, 416] - 93
+final sDNC: [273: 'G', 416: 'C', 453: 'C']
+
+************** Conus_pergrandis **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7585; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [237: 'A', 408: 'A']
+2 sDNC_score (100): [333, 222] - 85
+3 sDNC_score (100): [333, 222, 354] - 98
+final sDNC: [222: 'C', 333: 'C', 354: 'T']
+
+************** Conus_pertusus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8152; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [78: 'T', 411: 'A']
+2 sDNC_score (100): [264, 144] - 0
+3 sDNC_score (100): [264, 144, 300] - 89
+4 sDNC_score (100): [264, 144, 300, 411] - 97
+final sDNC: [144: 'A', 264: 'C', 300: 'G', 411: 'A']
+
+************** Conus_plinthis **************
+Sequences analyzed: 14
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7721; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [111: 'T', 210: 'G']
+2 sDNC_score (100): [111, 21] - 66
+3 sDNC_score (100): [111, 21, 567] - 82
+4 sDNC_score (100): [111, 21, 567, 288] - 96
+final sDNC: [21: 'T', 111: 'T', 288: 'C', 567: 'G']
+
+************** Conus_praecellens **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 1 - 387: 'C'
+pDNCs retrieved : 6296; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [387: 'C']
+1 sDNC_score (100): [387] - 86
+2 sDNC_score (100): [387, 6] - 91
+final sDNC: [6: 'C', 387: 'C']
+
+************** Conus_proximus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7766; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [84: 'G', 312: 'G']
+2 sDNC_score (100): [312, 606] - 55
+3 sDNC_score (100): [312, 606, 84] - 74
+4 sDNC_score (100): [312, 606, 84, 381] - 97
+5 sDNC_score (100): [312, 606, 84, 381, 273] - 91
+final sDNC: [84: 'G', 312: 'G', 381: 'G', 606: 'A']
+
+************** Conus_pseudimperialis **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8099; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [342: 'A', 402: 'C']
+2 sDNC_score (100): [402, 138] - 79
+3 sDNC_score (100): [402, 138, 363] - 93
+final sDNC: [138: 'G', 363: 'A', 402: 'C']
+
+************** Conus_pulicarius_vautieri **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7781; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [286: 'T', 585: 'A']
+2 sDNC_score (100): [621, 306] - 68
+3 sDNC_score (100): [621, 306, 585] - 95
+4 sDNC_score (100): [621, 306, 585, 177] - 98
+final sDNC: [177: 'C', 306: 'C', 585: 'A', 621: 'T']
+
+************** Conus_purpurascens **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6726; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [240: 'C', 567: 'G']
+2 sDNC_score (100): [276, 96] - 62
+3 sDNC_score (100): [276, 96, 567] - 94
+4 sDNC_score (100): [276, 96, 567, 435] - 97
+final sDNC: [96: 'G', 276: 'C', 435: 'T', 567: 'G']
+
+************** Conus_queenslandis **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7037; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [54: 'T', 345: 'G']
+2 sDNC_score (100): [525, 477] - 82
+3 sDNC_score (100): [525, 477, 177] - 94
+final sDNC: [177: 'C', 477: 'T', 525: 'C']
+
+************** Conus_quercinus **************
+Sequences analyzed: 19
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5750; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [99: 'T', 468: 'G']
+2 sDNC_score (100): [99, 468] - 18
+3 sDNC_score (100): [99, 468, 324] - 78
+4 sDNC_score (100): [99, 468, 324, 283] - 90
+final sDNC: [99: 'T', 283: 'T', 324: 'G', 468: 'G']
+
+************** Conus_radiatus **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7432; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [45: 'G', 384: 'C']
+2 sDNC_score (100): [273, 636] - 76
+3 sDNC_score (100): [273, 636, 129] - 97
+final sDNC: [129: 'T', 273: 'A', 636: 'C']
+
+************** Conus_rattus **************
+Sequences analyzed: 9
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7012; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [360: 'A', 399: 'G']
+2 sDNC_score (100): [201, 399] - 79
+3 sDNC_score (100): [201, 399, 537] - 97
+final sDNC: [201: 'T', 399: 'G', 537: 'G']
+
+************** Conus_regius **************
+Sequences analyzed: 15
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8330; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [180: 'T', 492: 'G']
+2 sDNC_score (100): [138, 270] - 0
+3 sDNC_score (100): [138, 270, 573] - 78
+4 sDNC_score (100): [138, 270, 573, 492] - 86
+final sDNC: [138: 'A', 270: 'A', 492: 'G', 573: 'A']
+
+************** Conus_retifer **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8705; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [400: 'C', 435: 'T']
+2 sDNC_score (100): [435, 300] - 0
+3 sDNC_score (100): [435, 300, 258] - 39
+4 sDNC_score (100): [435, 300, 258, 400] - 82
+5 sDNC_score (100): [435, 300, 258, 400, 241] - 93
+final sDNC: [241: 'C', 258: 'C', 300: 'A', 400: 'C', 435: 'T']
+
+************** Conus_rolani **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5321; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [345: 'G', 543: 'G']
+2 sDNC_score (100): [300, 345] - 54
+3 sDNC_score (100): [300, 345, 535] - 73
+4 sDNC_score (100): [300, 345, 535, 543] - 92
+5 sDNC_score (100): [300, 345, 535, 543, 537] - 96
+final sDNC: [300: 'C', 345: 'G', 535: 'T', 537: 'G', 543: 'G']
+
+************** Conus_sanderi **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 473; Positions involved: 94; Independent pDNCs: 0
+Shortest retrieved diagnostic combination: [183: 'G', 234: 'C', 333: 'A']
+3 sDNC_score (100): [333, 54, 456] - 57
+4 sDNC_score (100): [333, 54, 456, 183] - 75
+5 sDNC_score (100): [333, 54, 456, 183, 234] - 87
+final sDNC: [54: 'C', 183: 'G', 234: 'C', 333: 'A', 456: 'C']
+
+************** Conus_sanderi_cf **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 3108; Positions involved: 100; Independent pDNCs: 7
+Shortest retrieved diagnostic combination: [69: 'T', 189: 'T']
+2 sDNC_score (100): [189, 447] - 0
+3 sDNC_score (100): [189, 447, 45] - 78
+4 sDNC_score (100): [189, 447, 45, 69] - 92
+final sDNC: [45: 'C', 69: 'T', 189: 'T', 447: 'C']
+
+************** Conus_sanguinolentus **************
+Sequences analyzed: 111
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7901; Positions involved: 100; Independent pDNCs: 26
+Shortest retrieved diagnostic combination: [48: 'G', 120: 'C']
+2 sDNC_score (100): [120, 570] - 70
+3 sDNC_score (100): [120, 570, 306] - 93
+4 sDNC_score (100): [120, 570, 306, 444] - 99
+final sDNC: [120: 'C', 306: 'C', 444: 'C', 570: 'C']
+
+************** Conus_sazanka **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5882; Positions involved: 100; Independent pDNCs: 12
+Shortest retrieved diagnostic combination: [333: 'A', 444: 'C']
+2 sDNC_score (100): [444, 402] - 42
+3 sDNC_score (100): [444, 402, 48] - 84
+4 sDNC_score (100): [444, 402, 48, 375] - 93
+final sDNC: [48: 'G', 375: 'C', 402: 'C', 444: 'C']
+
+************** Conus_simonis **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 2 - 7: 'C', 12: 'A'
+pDNCs retrieved : 5584; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [7: 'C']
+1 sDNC_score (100): [7] - 0
+2 sDNC_score (100): [7, 12] - 90
+3 sDNC_score (100): [7, 12, 637] - 97
+final sDNC: [7: 'C', 12: 'A', 637: 'G']
+
+************** Conus_sp1 **************
+Sequences analyzed: 11
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6875; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [51: 'G', 495: 'A']
+2 sDNC_score (100): [627, 493] - 87
+3 sDNC_score (100): [627, 493, 87] - 92
+final sDNC: [87: 'G', 493: 'T', 627: 'A']
+
+************** Conus_sp2 **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6382; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [192: 'T', 493: 'T']
+2 sDNC_score (100): [420, 192] - 0
+3 sDNC_score (100): [420, 192, 493] - 44
+4 sDNC_score (100): [420, 192, 493, 249] - 78
+5 sDNC_score (100): [420, 192, 493, 249, 3] - 97
+final sDNC: [3: 'G', 192: 'T', 249: 'C', 420: 'C', 493: 'T']
+
+************** Conus_sponsalis **************
+Sequences analyzed: 11
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7720; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [312: 'G', 336: 'T']
+2 sDNC_score (100): [354, 432] - 65
+3 sDNC_score (100): [354, 432, 336] - 82
+4 sDNC_score (100): [354, 432, 336, 420] - 98
+final sDNC: [336: 'T', 354: 'T', 420: 'A', 432: 'T']
+
+************** Conus_spurius **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7351; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [564: 'T', 573: 'G']
+2 sDNC_score (100): [216, 315] - 83
+3 sDNC_score (100): [216, 315, 495] - 98
+final sDNC: [216: 'C', 315: 'C', 495: 'G']
+
+************** Conus_stercusmuscarum **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7812; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [132: 'G', 528: 'A']
+2 sDNC_score (100): [528, 96] - 79
+3 sDNC_score (100): [528, 96, 90] - 100
+final sDNC: [90: 'A', 96: 'A', 528: 'A']
+
+************** Conus_striatellus **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 1 - 354: 'C'
+pDNCs retrieved : 7797; Positions involved: 100; Independent pDNCs: 29
+Shortest retrieved diagnostic combination: [354: 'C']
+1 sDNC_score (100): [354] - 56
+2 sDNC_score (100): [354, 369] - 88
+3 sDNC_score (100): [354, 369, 537] - 100
+final sDNC: [354: 'C', 369: 'A', 537: 'A']
+
+************** Conus_striatus **************
+Sequences analyzed: 6
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8005; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [129: 'G', 417: 'C']
+2 sDNC_score (100): [417, 207] - 85
+3 sDNC_score (100): [417, 207, 636] - 79
+final sDNC: [207: 'T', 417: 'C', 636: 'C']
+
+************** Conus_striolatus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7819; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [39: 'G', 399: 'A']
+2 sDNC_score (100): [39, 399] - 82
+3 sDNC_score (100): [39, 399, 507] - 95
+final sDNC: [39: 'G', 399: 'A', 507: 'C']
+
+************** Conus_stupa **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6537; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [627: 'C', 640: 'C']
+2 sDNC_score (100): [360, 540] - 0
+3 sDNC_score (100): [360, 540, 627] - 60
+4 sDNC_score (100): [360, 540, 627, 213] - 93
+5 sDNC_score (100): [360, 540, 627, 213, 640] - 97
+final sDNC: [213: 'G', 360: 'T', 540: 'C', 627: 'C', 640: 'C']
+
+************** Conus_sugimotonis **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8158; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [111: 'T', 285: 'C']
+2 sDNC_score (100): [111, 4] - 50
+3 sDNC_score (100): [111, 4, 45] - 75
+4 sDNC_score (100): [111, 4, 45, 603] - 97
+final sDNC: [4: 'C', 45: 'A', 111: 'T', 603: 'C']
+
+************** Conus_sugimotonis1 **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7431; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [303: 'G', 618: 'C']
+2 sDNC_score (100): [42, 321] - 83
+3 sDNC_score (100): [42, 321, 54] - 99
+final sDNC: [42: 'C', 54: 'C', 321: 'C']
+
+************** Conus_sulcatus **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5589; Positions involved: 100; Independent pDNCs: 12
+Shortest retrieved diagnostic combination: [102: 'C', 345: 'G']
+2 sDNC_score (100): [102, 345] - 23
+3 sDNC_score (100): [102, 345, 537] - 60
+4 sDNC_score (100): [102, 345, 537, 552] - 88
+5 sDNC_score (100): [102, 345, 537, 552, 535] - 81
+final sDNC: [102: 'C', 345: 'G', 537: 'G', 552: 'A']
+
+************** Conus_sulcatus_bocki **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7329; Positions involved: 100; Independent pDNCs: 18
+Shortest retrieved diagnostic combination: [180: 'A', 535: 'T']
+2 sDNC_score (100): [552, 537] - 55
+3 sDNC_score (100): [552, 537, 345] - 91
+4 sDNC_score (100): [552, 537, 345, 180] - 98
+final sDNC: [180: 'A', 345: 'G', 537: 'G', 552: 'G']
+
+************** Conus_sulcatus_brettinghami **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7022; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [99: 'T', 132: 'A']
+2 sDNC_score (100): [57, 99] - 80
+3 sDNC_score (100): [57, 99, 540] - 95
+final sDNC: [57: 'C', 99: 'T', 540: 'C']
+
+************** Conus_sulcatus_samiae **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6862; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [540: 'C', 573: 'C']
+2 sDNC_score (100): [573, 540] - 75
+3 sDNC_score (100): [573, 540, 537] - 97
+final sDNC: [537: 'G', 540: 'C', 573: 'C']
+
+************** Conus_sulcatus_samiae1 **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6771; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [168: 'C', 537: 'A']
+2 sDNC_score (100): [381, 564] - 75
+3 sDNC_score (100): [381, 564, 537] - 90
+final sDNC: [381: 'T', 537: 'A', 564: 'C']
+
+************** Conus_sutanorcum **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6097; Positions involved: 100; Independent pDNCs: 14
+Shortest retrieved diagnostic combination: [507: 'C', 531: 'C']
+2 sDNC_score (100): [507, 531] - 18
+3 sDNC_score (100): [507, 531, 630] - 81
+4 sDNC_score (100): [507, 531, 630, 465] - 93
+final sDNC: [465: 'G', 507: 'C', 531: 'C', 630: 'A']
+
+************** Conus_tabidus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7372; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [66: 'A', 234: 'C']
+2 sDNC_score (100): [66, 528] - 0
+3 sDNC_score (100): [66, 528, 123] - 83
+4 sDNC_score (100): [66, 528, 123, 141] - 76
+final sDNC: [66: 'A', 123: 'C', 528: 'A']
+
+************** Conus_terebra **************
+Sequences analyzed: 9
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7604; Positions involved: 100; Independent pDNCs: 23
+Shortest retrieved diagnostic combination: [132: 'T', 585: 'C']
+2 sDNC_score (100): [324, 45] - 0
+3 sDNC_score (100): [324, 45, 585] - 82
+4 sDNC_score (100): [324, 45, 585, 630] - 93
+final sDNC: [45: 'A', 324: 'C', 585: 'C', 630: 'A']
+
+************** Conus_tessulatus **************
+Sequences analyzed: 4
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7642; Positions involved: 100; Independent pDNCs: 20
+Shortest retrieved diagnostic combination: [291: 'G', 453: 'T']
+2 sDNC_score (100): [453, 222] - 71
+3 sDNC_score (100): [453, 222, 306] - 92
+4 sDNC_score (100): [453, 222, 306, 303] - 99
+final sDNC: [222: 'T', 303: 'G', 306: 'T', 453: 'T']
+
+************** Conus_textile **************
+Sequences analyzed: 27
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 4922; Positions involved: 100; Independent pDNCs: 11
+Shortest retrieved diagnostic combination: [159: 'G', 372: 'C']
+2 sDNC_score (100): [402, 159] - 0
+3 sDNC_score (100): [402, 159, 372] - 72
+4 sDNC_score (100): [402, 159, 372, 312] - 95
+5 sDNC_score (100): [402, 159, 372, 312, 300] - 94
+final sDNC: [159: 'G', 312: 'A', 372: 'C', 402: 'G']
+
+************** Conus_tribblei **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7055; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [297: 'T', 363: 'C']
+2 sDNC_score (100): [477, 297] - 90
+3 sDNC_score (100): [477, 297, 427] - 93
+final sDNC: [297: 'T', 427: 'C', 477: 'C']
+
+************** Conus_troendlei **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 5865; Positions involved: 100; Independent pDNCs: 12
+Shortest retrieved diagnostic combination: [567: 'G', 630: 'C']
+2 sDNC_score (100): [630, 414] - 0
+3 sDNC_score (100): [630, 414, 402] - 73
+4 sDNC_score (100): [630, 414, 402, 567] - 93
+5 sDNC_score (100): [630, 414, 402, 567, 300] - 98
+final sDNC: [300: 'G', 402: 'C', 414: 'A', 567: 'G', 630: 'C']
+
+************** Conus_tulipa **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 8128; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [354: 'T', 579: 'G']
+2 sDNC_score (100): [406, 354] - 55
+3 sDNC_score (100): [406, 354, 198] - 75
+4 sDNC_score (100): [406, 354, 198, 267] - 95
+final sDNC: [198: 'T', 267: 'A', 354: 'T', 406: 'T']
+
+************** Conus_variegatus **************
+Sequences analyzed: 19
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2986; Positions involved: 100; Independent pDNCs: 8
+Shortest retrieved diagnostic combination: [51: 'T', 225: 'C']
+2 sDNC_score (100): [51, 225] - 33
+3 sDNC_score (100): [51, 225, 558] - 63
+4 sDNC_score (100): [51, 225, 558, 342] - 84
+5 sDNC_score (100): [51, 225, 558, 342, 72] - 90
+final sDNC: [51: 'T', 72: 'A', 225: 'C', 342: 'G', 558: 'G']
+
+************** Conus_varius **************
+Sequences analyzed: 7
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7964; Positions involved: 100; Independent pDNCs: 27
+Shortest retrieved diagnostic combination: [342: 'G', 411: 'G']
+2 sDNC_score (100): [90, 408] - 75
+3 sDNC_score (100): [90, 408, 552] - 93
+final sDNC: [90: 'G', 408: 'C', 552: 'C']
+
+************** Conus_ventricosus **************
+Sequences analyzed: 13
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7491; Positions involved: 100; Independent pDNCs: 19
+Shortest retrieved diagnostic combination: [51: 'T', 60: 'G']
+2 sDNC_score (100): [51, 416] - 0
+3 sDNC_score (100): [51, 416, 270] - 76
+4 sDNC_score (100): [51, 416, 270, 630] - 89
+final sDNC: [51: 'T', 270: 'C', 416: 'C', 630: 'A']
+
+************** Conus_vexillum **************
+Sequences analyzed: 11
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7639; Positions involved: 100; Independent pDNCs: 24
+Shortest retrieved diagnostic combination: [69: 'G', 579: 'G']
+2 sDNC_score (100): [94, 399] - 77
+3 sDNC_score (100): [94, 399, 96] - 84
+final sDNC: [94: 'T', 96: 'A', 399: 'G']
+
+************** Conus_victoriae **************
+Sequences analyzed: 5
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6137; Positions involved: 100; Independent pDNCs: 15
+Shortest retrieved diagnostic combination: [180: 'G', 207: 'C']
+2 sDNC_score (100): [207, 273] - 81
+3 sDNC_score (100): [207, 273, 416] - 96
+final sDNC: [207: 'C', 273: 'A', 416: 'C']
+
+************** Conus_villepinii **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 740; Positions involved: 100; Independent pDNCs: 3
+Shortest retrieved diagnostic combination: [333: 'G', 577: 'T']
+2 sDNC_score (100): [333, 577] - 7
+3 sDNC_score (100): [333, 577, 375] - 29
+4 sDNC_score (100): [333, 577, 375, 493] - 85
+5 sDNC_score (100): [333, 577, 375, 493, 237] - 91
+final sDNC: [237: 'A', 333: 'G', 375: 'T', 493: 'T', 577: 'T']
+
+************** Conus_villepinii2 **************
+Sequences analyzed: 21
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 2564; Positions involved: 100; Independent pDNCs: 6
+Shortest retrieved diagnostic combination: [321: 'G', 549: 'T']
+2 sDNC_score (100): [321, 549] - 27
+3 sDNC_score (100): [321, 549, 402] - 61
+4 sDNC_score (100): [321, 549, 402, 522] - 89
+5 sDNC_score (100): [321, 549, 402, 522, 348] - 83
+final sDNC: [321: 'G', 402: 'T', 522: 'C', 549: 'T']
+
+************** Conus_viola **************
+Sequences analyzed: 1
+single nucleotide pDNCs: 1 - 126: 'T'
+pDNCs retrieved : 7683; Positions involved: 100; Independent pDNCs: 21
+Shortest retrieved diagnostic combination: [126: 'T']
+1 sDNC_score (100): [126] - 89
+2 sDNC_score (100): [126, 393] - 95
+final sDNC: [126: 'T', 393: 'C']
+
+************** Conus_virgo **************
+Sequences analyzed: 8
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7488; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [369: 'A', 552: 'G']
+2 sDNC_score (100): [294, 306] - 76
+3 sDNC_score (100): [294, 306, 94] - 94
+final sDNC: [94: 'T', 294: 'C', 306: 'C']
+
+************** Conus_virgo1 **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7951; Positions involved: 100; Independent pDNCs: 28
+Shortest retrieved diagnostic combination: [306: 'T', 580: 'C']
+2 sDNC_score (100): [94, 303] - 49
+3 sDNC_score (100): [94, 303, 507] - 93
+4 sDNC_score (100): [94, 303, 507, 378] - 96
+final sDNC: [94: 'T', 303: 'C', 378: 'G', 507: 'C']
+
+************** Conus_voluminalis **************
+Sequences analyzed: 2
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7784; Positions involved: 100; Independent pDNCs: 22
+Shortest retrieved diagnostic combination: [94: 'T', 636: 'C']
+2 sDNC_score (100): [96, 636] - 79
+3 sDNC_score (100): [96, 636, 94] - 86
+final sDNC: [94: 'T', 96: 'A', 636: 'C']
+
+************** Conus_white_rolani_nsp **************
+Sequences analyzed: 26
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 6677; Positions involved: 100; Independent pDNCs: 13
+Shortest retrieved diagnostic combination: [345: 'G', 528: 'C']
+2 sDNC_score (100): [345, 237] - 58
+3 sDNC_score (100): [345, 237, 537] - 86
+4 sDNC_score (100): [345, 237, 537, 171] - 86
+final sDNC: [171: 'G', 237: 'C', 345: 'G', 537: 'G']
+
+************** Conus_zeylanicus **************
+Sequences analyzed: 3
+single nucleotide pDNCs: 0 - 
+pDNCs retrieved : 7774; Positions involved: 100; Independent pDNCs: 25
+Shortest retrieved diagnostic combination: [531: 'C', 552: 'G']
+2 sDNC_score (100): [573, 654] - 82
+3 sDNC_score (100): [573, 654, 426] - 86
+final sDNC: [426: 'C', 573: 'C', 654: 'C']
+Time of the code execution: 87798.5210001
